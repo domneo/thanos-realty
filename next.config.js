@@ -12,7 +12,6 @@ const securityHeaders = [
 ];
 
 module.exports = {
-  assetPrefix: process.env.ASSET_PREFIX || undefined,
   poweredByHeader: false,
   compiler: {
     styledComponents: true,
@@ -35,7 +34,6 @@ module.exports = {
     domains: [
       "localhost",
       "via.placeholder.com",
-      process.env.NEXT_PUBLIC_ASSET_DOMAIN,
     ],
   },
   async redirects() {

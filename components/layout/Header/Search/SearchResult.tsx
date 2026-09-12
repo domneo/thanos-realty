@@ -70,7 +70,7 @@ export const SearchResult = ({
   }
 
   const publishedDate = DateTime.fromSQL(published_at || "", {
-    zone: process.env.TIMEZONE,
+    zone: process.env.NEXT_PUBLIC_TIMEZONE,
   }).toFormat("dd LLLL yyyy");
 
   // Isolate search term within content

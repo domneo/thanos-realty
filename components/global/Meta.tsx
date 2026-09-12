@@ -18,13 +18,20 @@ export default function Meta({
 }: MetaProps) {
   const router = useRouter();
 
+  // og:image and og:url have to be absolute for the social crawlers, but the
+  // values that reach here are a mix: page paths and NEXT_PUBLIC_META_IMAGE are
+  // site-relative, while content images already carry their own host.
+  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || "").replace(/\/$/, "");
+  const absolute = (path?: string) =>
+    !path || /^https?:\/\//.test(path) ? path : `${siteUrl}${path}`;
+
   const metaTitle =
     title +
     (title ? " — " : "") +
     "Thanos Realty | Halving Occupancy, Doubling Space";
   const metaDescription = description || "Halving Occupancy, Doubling Space";
-  const metaUrl = url;
-  const metaImage = image || process.env.NEXT_PUBLIC_META_IMAGE;
+  const metaUrl = absolute(url || router.asPath.split("?")[0]);
+  const metaImage = absolute(image || process.env.NEXT_PUBLIC_META_IMAGE);
   const metaSiteName =
     siteName || "Thanos Realty | Halving Occupancy, Doubling Space";
 

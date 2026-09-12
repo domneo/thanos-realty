@@ -28,7 +28,7 @@ const RelatedCaseStories = ({
         <div className="row justify-content-center">
           {relatedCaseStories.data.map(
             ({ id, slug, image, categories, title, published_at, summary }) => {
-              const publishedDate = DateTime.fromSQL(published_at || "", { zone: process.env.TIMEZONE })
+              const publishedDate = DateTime.fromSQL(published_at || "", { zone: process.env.NEXT_PUBLIC_TIMEZONE })
                                             .toFormat("dd LLLL yyyy");
               return (
                 <div key={id} className="col-md-10 col-lg-4 my-3">

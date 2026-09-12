@@ -18,7 +18,7 @@ const Header = ({
   categories,
 }: HeaderProps) => {
   const publishedDate = DateTime.fromSQL(published_at || "", {
-    zone: process.env.TIMEZONE,
+    zone: process.env.NEXT_PUBLIC_TIMEZONE,
   }).toFormat("dd LLLL yyyy");
   return (
     <Root className="container-fluid overflow-hidden">

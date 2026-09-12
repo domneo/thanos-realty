@@ -10,15 +10,13 @@ Migrated the original API and database so that it now lives inside this Next.js 
 | `lib/db.ts`                 | Reads `data/`, writes runtime state to `data/runtime/`                        |
 | `lib/api.ts`                | The `api/v1/*` router: filtering, sorting, pagination, response shapes        |
 | `lib/paginate.ts`           | The paginator envelope the pages read `current_page`/`last_page`/`total` from |
-| `lib/apiGateway.ts`         | Chooses between the in-process router and an external host                    |
+| `lib/apiGateway.ts`         | The single entry point into the router                                        |
 | `pages/api/v1/[...path].ts` | Exposes the router over HTTP for the browser                                  |
 
 `getStaticProps` calls the router in-process through `utils/fetchAPI`, so
 `next build` needs no server listening. The browser calls the same router over
-HTTP via `NEXT_PUBLIC_API_BASE_URL`.
-
-Setting `API_BASE_URL` to a host switches both paths back to proxying an
-external API, unchanged from how this app worked before.
+HTTP at the same-origin path `/api/v1/*`. There is no external API host to
+configure — the API ships with the app.
 
 ## Endpoints
 

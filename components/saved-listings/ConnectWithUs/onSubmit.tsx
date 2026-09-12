@@ -12,17 +12,14 @@ export const onSubmit = async (formData: Inputs) => {
     message: "_",
   };
 
-  const res = await fetch(
-    `${process.env.NEXT_PUBLIC_API_BASE_URL}api/v1/contact/saved-listings`,
-    {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Accept": "application/json",
-      },
-      body: JSON.stringify(data),
-    }
-  );
+  const res = await fetch("/api/v1/contact/saved-listings", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Accept": "application/json",
+    },
+    body: JSON.stringify(data),
+  });
 
   const json = await res.json();
   return json;

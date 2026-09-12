@@ -29,9 +29,7 @@ export const Listings = ({ contents }: ListingsProps) => {
     useState<PropertiesData>(properties);
   const getProperties = async (page?: number) => {
     const res = await fetch(
-      `${
-        process.env.NEXT_PUBLIC_API_BASE_URL
-      }api/v1/properties?published=1&sort=published_at&sort_by=desc&per_page=8&page=${
+      `/api/v1/properties?published=1&sort=published_at&sort_by=desc&per_page=8&page=${
         page || 1
       }&precinct=${
         precinctSelected === "all" ? "" : precinctSelected
@@ -114,7 +112,13 @@ export const Listings = ({ contents }: ListingsProps) => {
                     id={id}
                     slug={slug}
                     title={title}
-                    image={image ? image?.url : (images && images.length > 0 ? images?.[0].url : undefined)}
+                    image={
+                      image
+                        ? image?.url
+                        : images && images.length > 0
+                        ? images?.[0].url
+                        : undefined
+                    }
                     precinct={precinct}
                     typical_floor_plate={typical_floor_plate}
                     ideal_rent_price={ideal_rent_price}

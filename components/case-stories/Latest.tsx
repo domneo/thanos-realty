@@ -37,7 +37,7 @@ export const Latest = ({ contents }: LatestProps) => {
 
   const servicesArr: Service[] = services && JSON.parse(services);
 
-  const publishedDate = DateTime.fromSQL(published_at || "", { zone: process.env.TIMEZONE })
+  const publishedDate = DateTime.fromSQL(published_at || "", { zone: process.env.NEXT_PUBLIC_TIMEZONE })
                                 .toFormat("dd LLLL yyyy");
 
   return (

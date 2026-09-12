@@ -38,7 +38,7 @@ export const Latest = ({ contents }: LatestProps) => {
               categories,
               published_at,
             } = post;
-            const publishedDate = DateTime.fromSQL(published_at || "", { zone: process.env.TIMEZONE })
+            const publishedDate = DateTime.fromSQL(published_at || "", { zone: process.env.NEXT_PUBLIC_TIMEZONE })
                                           .toFormat("dd LLLL yyyy");
 
             return (

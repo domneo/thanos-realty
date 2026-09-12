@@ -29,9 +29,7 @@ export const Listings = ({ contents }: ListingsProps) => {
   const getArticles = async (page?: number) => {
     const category = selectedCategory !== "all" ? selectedCategory : "";
     const res = await fetch(
-      `${
-        process.env.NEXT_PUBLIC_API_BASE_URL
-      }api/v1/posts?published=1&sort=published_at&sort_by=desc&per_page=9&page=${
+      `/api/v1/posts?published=1&sort=published_at&sort_by=desc&per_page=9&page=${
         page || 1
       }&category_id=${category}`,
       {
@@ -100,8 +98,9 @@ export const Listings = ({ contents }: ListingsProps) => {
         <div className="row row-cols-md-2 row-cols-xl-3">
           {articles?.data?.map((post, i) => {
             if (post) {
-              const publishedDate = DateTime.fromSQL(post.published_at || "", { zone: process.env.TIMEZONE })
-                                            .toFormat("dd LLLL yyyy");
+              const publishedDate = DateTime.fromSQL(post.published_at || "", {
+                zone: process.env.NEXT_PUBLIC_TIMEZONE,
+              }).toFormat("dd LLLL yyyy");
 
               return (
                 <div key={post.id} className="col mb-5">
