@@ -38,11 +38,6 @@ const MenuItem = styled.button`
   border: none;
   letter-spacing: 0.09px;
   transition: 0.3s box-shadow, 0.3s color, 0.3s background, 0.3s border;
-  &:hover,
-  &:focus {
-    font-weight: bold;
-    letter-spacing: 0px;
-  }
 
   &.mode-light {
     color: var(--bs-primary);

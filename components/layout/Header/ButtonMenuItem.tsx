@@ -92,12 +92,6 @@ const MenuItem = styled.button`
   border: none;
   letter-spacing: 0.09px;
 
-  &:hover,
-  &:focus {
-    font-weight: bold;
-    letter-spacing: 0px;
-  }
-
   &.mode-light {
     color: var(--bs-primary);
   }

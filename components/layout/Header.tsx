@@ -62,9 +62,9 @@ const Header = ({ mode, menu }: HeaderProps) => {
       <NavBar
         className={`mode-${headerMode} ${
           isScrolledDown ? "scrolled-down" : ""
-        } ${
-          menuOpen ? "menu-open" : ""
-        } container-fluid p-3 p-sm-4 py-xl-5 px-xxl-5`}
+        } ${menuOpen ? "menu-open" : ""} container-fluid p-3 p-sm-4  px-xxl-5 ${
+          isScrolledDown ? "py-xl-3" : "py-xl-5"
+        }`}
       >
         <div className="d-flex align-items-center justify-content-between">
           <MenuToggle
@@ -125,7 +125,7 @@ const Root = styled.header`
 const NavBar = styled.div`
   position: relative;
   z-index: 60;
-  transition: 0.3s background, 0.3s box-shadow;
+  transition: 0.3s background, 0.3s box-shadow, 0.3s padding;
 
   &.mode-light {
     background: var(--bs-white);

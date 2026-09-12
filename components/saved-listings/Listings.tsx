@@ -113,6 +113,7 @@ const HeartEmpty = styled.span`
   width: 2rem;
   height: 2rem;
   margin-left: 0.5rem;
+  rotate: 180deg;
 
   @media ${media.md} {
     width: 2.5rem;
