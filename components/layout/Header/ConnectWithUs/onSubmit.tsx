@@ -1,43 +1,27 @@
-import { iAmInterestedInValues, Inputs } from "./Form";
+import {
+  getInterestedInId,
+  iAmInterestedInValues,
+  Inputs,
+} from "./Form";
 
 export const onSubmit = async (formData: Inputs) => {
   const {
     name,
     email,
-    iAmInterestedIn_OptimisingRealEstateFootprint,
-    iAmInterestedIn_ChangeImplementation,
-    iAmInterestedIn_Learningaboutindustrytrendsandbenchmark,
-    iAmInterestedIn_HybridWorkingArrangement,
-    iAmInterestedIn_AdoptingModernWorkplace,
-    iAmInterestedIn_Exploringmarketoptions,
-    iAmInterestedIn_Other,
     iAmInterestedIn_OtherText,
     companyName,
     headcount,
     currentOfficeSize,
   } = formData;
 
-  const iAmInterestedIn = [
-    iAmInterestedIn_OptimisingRealEstateFootprint,
-    iAmInterestedIn_ChangeImplementation,
-    iAmInterestedIn_Learningaboutindustrytrendsandbenchmark,
-    iAmInterestedIn_HybridWorkingArrangement,
-    iAmInterestedIn_AdoptingModernWorkplace,
-    iAmInterestedIn_Exploringmarketoptions,
-    iAmInterestedIn_Other,
-  ]
-    .map((val, i) => {
-      if (val) {
-        return iAmInterestedInValues[i];
-      }
-      return;
-    })
-    .filter((val) => val !== undefined);
+  const iAmInterestedIn = iAmInterestedInValues.filter(
+    (value) => formData[getInterestedInId(value)]
+  );
 
   const message = `
     <p>I am interested in:</p>
     ${
-      iAmInterestedIn
+      iAmInterestedIn.length
         ? `<ul>${iAmInterestedIn
             .map((val) => {
               return `<li>${val}${

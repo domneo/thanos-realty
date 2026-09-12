@@ -6,22 +6,6 @@ import removeWidows from "hooks/useRemoveWidows";
 
 import { onSubmit } from "./onSubmit";
 
-export interface Inputs {
-  name: string;
-  email: string;
-  iAmInterestedIn_OptimisingRealEstateFootprint: string;
-  iAmInterestedIn_ChangeImplementation: string;
-  iAmInterestedIn_Learningaboutindustrytrendsandbenchmark: string;
-  iAmInterestedIn_HybridWorkingArrangement: string;
-  iAmInterestedIn_AdoptingModernWorkplace: string;
-  iAmInterestedIn_Exploringmarketoptions: string;
-  iAmInterestedIn_Other: boolean;
-  iAmInterestedIn_OtherText: string;
-  companyName: string;
-  headcount: string;
-  currentOfficeSize: string;
-}
-
 export const iAmInterestedInValues = [
   "Optimising real estate footprint",
   "Change implementation",
@@ -30,7 +14,29 @@ export const iAmInterestedInValues = [
   "Adopting modern workplace",
   "Exploring market options",
   "Other",
-];
+] as const;
+
+type InterestedInValue = typeof iAmInterestedInValues[number];
+
+type StripSpaces<S extends string> = S extends `${infer Head} ${infer Tail}`
+  ? `${Head}${StripSpaces<Tail>}`
+  : S;
+
+export type InterestedInKey = `iAmInterestedIn_${StripSpaces<InterestedInValue>}`;
+
+export const getInterestedInId = (value: InterestedInValue) =>
+  ("iAmInterestedIn_" + value.replace(/\s/g, "")) as InterestedInKey;
+
+const iAmInterestedInKeys = iAmInterestedInValues.map(getInterestedInId);
+
+export type Inputs = Record<InterestedInKey, boolean> & {
+  name: string;
+  email: string;
+  iAmInterestedIn_OtherText: string;
+  companyName: string;
+  headcount: string;
+  currentOfficeSize: string;
+};
 
 interface ConnectWithUsFormProps {
   showSuccess: () => void;
@@ -52,32 +58,16 @@ export const ConnectWithUsForm = ({
 
   const iAmInterestedIn_Other = watch("iAmInterestedIn_Other");
 
-  const getInterestedInId = (value: string) => {
-    const joined = value.replace(/\s/g, "");
-    return "iAmInterestedIn_" + joined;
-  };
-
-  const validateInterestedIn = () => {
-    const values = getValues([
-      "iAmInterestedIn_OptimisingRealEstateFootprint",
-      "iAmInterestedIn_ChangeImplementation",
-      "iAmInterestedIn_Learningaboutindustrytrendsandbenchmark",
-      "iAmInterestedIn_HybridWorkingArrangement",
-      "iAmInterestedIn_AdoptingModernWorkplace",
-      "iAmInterestedIn_Exploringmarketoptions",
-      "iAmInterestedIn_Other",
-    ]);
-    return (
-      values.includes(true) || removeWidows("Please select at least one option")
-    );
-  };
+  const validateInterestedIn = () =>
+    getValues(iAmInterestedInKeys).includes(true) ||
+    "Please select at least one option";
 
   return (
     <form
       onSubmit={handleSubmit((formData) => {
         setIsSubmitting(true);
         onSubmit(formData).then((json) => {
-          if (json.success) {
+          if (json.status === "success") {
             console.log("Form submitted!");
             showSuccess();
             setIsSubmitting(false);
@@ -144,13 +134,12 @@ export const ConnectWithUsForm = ({
           I am interested in <span className="text-danger">*</span>
         </label>
         <AutoColumns>
-          {iAmInterestedInValues.map((field, i) => (
+          {iAmInterestedInValues.map((field) => (
             <div key={field} className="form-check">
               <input
                 className="form-check-input"
                 id={getInterestedInId(field)}
                 type="checkbox"
-                // @ts-ignore
                 {...register(getInterestedInId(field), {
                   validate: validateInterestedIn,
                 })}
@@ -173,6 +162,7 @@ export const ConnectWithUsForm = ({
             rows={2}
             {...register("iAmInterestedIn_OtherText", {
               required: "Please provide more info about your other interests",
+              shouldUnregister: true,
             })}
           />
         )}
@@ -183,9 +173,11 @@ export const ConnectWithUsForm = ({
             </p>
           </div>
         )}
-        {errors.iAmInterestedIn_Other && validateInterestedIn() && (
+        {errors.iAmInterestedIn_Other && (
           <div className="invalid-feedback d-block">
-            <p className="mb-0">{removeWidows(validateInterestedIn())}</p>
+            <p className="mb-0">
+              {removeWidows(errors.iAmInterestedIn_Other.message)}
+            </p>
           </div>
         )}
       </div>

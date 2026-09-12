@@ -44,7 +44,7 @@ export const Form = ({ showSuccess, showError }: FormProps) => {
       onSubmit={handleSubmit((formData) => {
         setIsSubmitting(true);
         onSubmit(formData).then((json) => {
-          if (json.success) {
+          if (json.status === "success") {
             console.log("Form submitted!");
             showSuccess();
             setIsSubmitting(false);
