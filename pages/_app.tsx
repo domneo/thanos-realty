@@ -1,6 +1,7 @@
 import type { AppProps } from "next/app";
 import dynamic from "next/dynamic";
 import Script from "next/script";
+import { Analytics } from "@vercel/analytics/next";
 
 import "styles/bootstrap.scss";
 import "styles/lightbox.scss";
@@ -18,6 +19,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
       <>
         <TopProgressBar />
         <Component {...pageProps} />
+        <Analytics />
         {/* Google Tag Manager - Global base code */}
         <Script
           strategy="lazyOnload"
