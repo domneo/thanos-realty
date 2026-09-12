@@ -1,0 +1,94 @@
+.ReactModal__Overlay {
+  opacity: 0;
+}
+
+.ReactModal__Overlay--after-open {
+  opacity: 1;
+  transition: opacity 300ms ease-in-out;
+}
+
+.ReactModal__Content {
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+.ReactModal__Content--after-open {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  transition: all 300ms ease-in-out;
+}
+
+.ReactModal__Overlay--before-close {
+  opacity: 0;
+}
+
+.ReactModal__Content--before-close {
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9);
+  transition: all 300ms ease-in-out;
+}
+
+.ReactModal__Body--open,
+.ReactModal__Html--open {
+  overflow: hidden;
+}
+
+.lightbox-overlay-dark {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: grid;
+  place-items: center;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+}
+
+.modal-content-dark,
+.modal-content-light {
+  position: absolute;
+  border: none;
+  border-radius: 0;
+  outline: none;
+  padding: 0;
+
+  //create div tag with class below and leave it blank
+  .btn-lightbox-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    padding: 12px;
+    cursor: pointer;
+    z-index: 1;
+
+    &:hover,
+    &:focus {
+      outline: 0;
+    }
+  }
+}
+
+.modal-content-light {
+  .btn-lightbox-close {
+    content: url("data:image/svg+xml,%3Csvg width='14' height='14' viewBox='0 0 14 14' fill='none' xmlns='http://www.w3.org/2000/svg' %3E%3Cpath fillRule='evenodd' clipRule='evenodd' d='M2.35813 1.63696L7.00002 6.27018L11.6419 1.63696L12.3631 2.35813L7.72986 7.00002L12.3631 11.6419L11.6419 12.3631L7.00002 7.72986L2.35813 12.3631L1.63696 11.6419L6.27018 7.00002L1.63696 2.35813L2.35813 1.63696Z' fill='%23444' %3E%3C/path%3E%3C/svg%3E");
+
+    &:hover,
+    &:focus {
+      background: rgba($color: #1f1f1f, $alpha: 0.15);
+    }
+  }
+}
+
+.modal-content-dark {
+  .btn-lightbox-close {
+    content: url("data:image/svg+xml,%3Csvg width='14' height='14' viewBox='0 0 14 14' fill='none' xmlns='http://www.w3.org/2000/svg' %3E%3Cpath fillRule='evenodd' clipRule='evenodd' d='M2.35813 1.63696L7.00002 6.27018L11.6419 1.63696L12.3631 2.35813L7.72986 7.00002L12.3631 11.6419L11.6419 12.3631L7.00002 7.72986L2.35813 12.3631L1.63696 11.6419L6.27018 7.00002L1.63696 2.35813L2.35813 1.63696Z' fill='%23FFF' %3E%3C/path%3E%3C/svg%3E");
+
+    &:hover,
+    &:focus {
+      background: rgba($color: #ffffff, $alpha: 0.15);
+    }
+  }
+}

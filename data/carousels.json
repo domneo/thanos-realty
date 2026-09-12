@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5ba4bb3b-9316-4053-824b-50a734ede6be",
+    "title": "What's your company's return-to-work plan?",
+    "description": null,
+    "cta_text": "Read More",
+    "cta_link": "/what-we-do",
+    "image": "/images/hero1.jpg",
+    "position": 1,
+    "published": 1,
+    "published_at": "2022-05-12 12:26:00",
+    "deleted_at": null,
+    "created_at": "2022-05-10T18:15:55.000000Z",
+    "updated_at": "2022-05-12T12:26:20.000000Z"
+  },
+  {
+    "id": "fc10ad22-78cc-4f0e-8f97-8c01f346fb2b",
+    "title": "How does the home and office support the transformation of an ideal workplace?",
+    "description": null,
+    "cta_text": "Read More",
+    "cta_link": "/articles/the-problem-home-offices-cannot-solve",
+    "image": "/images/hero2.jpg",
+    "position": 2,
+    "published": 1,
+    "published_at": "2022-05-10 18:15:55",
+    "deleted_at": null,
+    "created_at": "2022-05-10T18:15:55.000000Z",
+    "updated_at": "2022-05-13T07:28:55.000000Z"
+  },
+  {
+    "id": "9028ad32-af1b-4b0b-9c8e-2b72f8bf1d39",
+    "title": "The key factors that a nurturing workplace addresses",
+    "description": null,
+    "cta_text": "Read More",
+    "cta_link": "/articles/workplaces-and-the-reinvention-of-humans",
+    "image": "/images/hero3.jpg",
+    "position": 3,
+    "published": 1,
+    "published_at": "2022-05-10 18:15:55",
+    "deleted_at": null,
+    "created_at": "2022-05-10T18:15:55.000000Z",
+    "updated_at": "2022-05-13T07:29:39.000000Z"
+  },
+  {
+    "id": "52b310a7-4670-479f-bc25-1ed51e0ccfc7",
+    "title": "Right-size or relocate? Contact our workplace strategists",
+    "description": null,
+    "cta_text": "Read More",
+    "cta_link": "/who-we-are",
+    "image": "/images/wwd-hero-bg.jpg",
+    "position": 4,
+    "published": 1,
+    "published_at": "2022-05-10 18:15:55",
+    "deleted_at": null,
+    "created_at": "2022-05-10T18:15:55.000000Z",
+    "updated_at": "2022-05-11T16:18:53.000000Z"
+  }
+]

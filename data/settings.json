@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4b1a24a3-3a45-4a0d-8f6a-6b0c9a1f0001",
+    "name": "HOME_PAGE_TEXT",
+    "description": "Homepage intro paragraph",
+    "value": "Supporting corporates in first understanding how best they uniquely need to occupy space, before right-sizing, staying or relocating their offices.",
+    "char_limit": 255
+  },
+  {
+    "id": "4b1a24a3-3a45-4a0d-8f6a-6b0c9a1f0002",
+    "name": "HOME_CTA_EMAIL",
+    "description": "Address shown in the homepage call to action",
+    "value": "enquiry@thanos-realty.com",
+    "char_limit": 255
+  }
+]

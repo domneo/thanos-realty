@@ -1,0 +1,149 @@
+[
+  {
+    "id": "3dcb53e3-0903-4c70-9d9a-d94a9bb3deac",
+    "title": "Japanese technology conglomerate",
+    "slug": "japanese-technology-conglomerate",
+    "summary": "Consolidating several subsidiaries and achieving target budgets in a rising market",
+    "image": "/images/case1.avif",
+    "size": "Above 15,000 sq ft",
+    "precinct": "Beach Road/Middle Road",
+    "services": "[{\"label\": \"Workplace Consulting\", \"value\": \"Workplace Consulting\"}, {\"label\": \"Secure Space\", \"value\": \"Secure Space\"}, {\"label\": \"Fit-out Management\", \"value\": \"Fit-out Management\"}, {\"label\": \"Change Implementation\", \"value\": \"Change Implementation\"}]",
+    "published_at": "2022-06-13 13:14:00",
+    "model": "CaseStory",
+    "categories": [
+      {
+        "id": "5dba65a4-7c20-4468-b5eb-01b23d9cc1c7",
+        "name": "Workplace",
+        "slug": "workplace",
+        "description": "workplace",
+        "counts": 3,
+        "created_at": "2022-05-10T18:15:53.000000Z",
+        "updated_at": "2022-06-15T06:19:12.000000Z",
+        "pivot": {
+          "case_story_id": "3dcb53e3-0903-4c70-9d9a-d94a9bb3deac",
+          "category_id": "5dba65a4-7c20-4468-b5eb-01b23d9cc1c7",
+          "created_at": "2022-05-11T13:44:14.000000Z",
+          "updated_at": "2022-05-11T13:44:14.000000Z"
+        }
+      }
+    ],
+    "user_id": "1c035de3-0a9b-4796-bd70-d3a7120bef2c",
+    "latest_user_id": "1c035de3-0a9b-4796-bd70-d3a7120bef2c",
+    "member_id": "6fcaa41b-c5f0-4ce8-b1d7-f893c3eedb56",
+    "description": "<p><span style=\"color:#000000\">Our overall strategy was to go-to-market early to identify compelling options for negotiation leverage, leveraging Thanos Realty&rsquo;s reach and existing business relationships with the influencers and/or decision makers at the Landlords. &nbsp;</span></p>\n\n<p><span style=\"color:#000000\">We advised the client to consider timed short term lease extensions of several entities and locations, to align consolidation into two specific locations in order to avoid overlapping costs.</span></p>\n\n<p><span style=\"color:#000000\">As part of our multi-prong approach, we also went-to-market early to mitigate rising market rents. During negotiations, we stressed how the Tenant&rsquo;s prestigious brand would make it a good addition to the Landlord&rsquo;s tenancy portfolio.</span></p>\n\n<p><span style=\"color:#000000\">We also conducted workshops with each of the two competing Landlords on how they can be creative when it comes to improving key terms and value-add, to put them in a more favourable position when competing for the Tenant.<br />\n<br />\nWe negotiated a final 7% reduction in rent to fall within target budget for the new lease, along with a final 10% reduction in rent to fall within target renewal budget upon maturity of the new lease.</span></p>\n<br />\n<br />\n<br />\n&nbsp;",
+    "featured": null,
+    "featured_at": null,
+    "published": 1,
+    "views": 429,
+    "created_at": "2022-05-11T13:44:14.000000Z",
+    "updated_at": "2022-06-15T16:00:03.000000Z",
+    "member": {
+      "id": "6fcaa41b-c5f0-4ce8-b1d7-f893c3eedb56",
+      "first_name": "Gavin",
+      "last_name": "Mercer",
+      "image": "/images/members/member1.avif",
+      "video": null,
+      "position": "Managing Director",
+      "email": "Gavin.Mercer@thanos-realty.com",
+      "phone": "+65 6555 0170"
+    }
+  },
+  {
+    "id": "1d5e72bf-a60e-4f94-9851-409b0b6eacbb",
+    "title": "US Pharmaceutical MNC",
+    "slug": "us-pharmaceutical-mnc",
+    "summary": "Consolidating several subsidiaries and achieving target budgets in a rising market",
+    "image": "/images/case3.avif",
+    "size": "Above 15,000 sq ft",
+    "precinct": "West - Alexandra / Harbourfront / Jurong",
+    "services": "[{\"label\": \"Workplace Consulting\", \"value\": \"Workplace Consulting\"}, {\"label\": \"Secure Space\", \"value\": \"Secure Space\"}, {\"label\": \"Fit-out Management\", \"value\": \"Fit-out Management\"}, {\"label\": \"Change Implementation\", \"value\": \"Change Implementation\"}]",
+    "published_at": "2022-05-11 16:54:00",
+    "model": "CaseStory",
+    "categories": [
+      {
+        "id": "5dba65a4-7c20-4468-b5eb-01b23d9cc1c7",
+        "name": "Workplace",
+        "slug": "workplace",
+        "description": "workplace",
+        "counts": 3,
+        "created_at": "2022-05-10T18:15:53.000000Z",
+        "updated_at": "2022-06-15T06:19:12.000000Z",
+        "pivot": {
+          "case_story_id": "1d5e72bf-a60e-4f94-9851-409b0b6eacbb",
+          "category_id": "5dba65a4-7c20-4468-b5eb-01b23d9cc1c7",
+          "created_at": "2022-05-11T16:54:12.000000Z",
+          "updated_at": "2022-05-11T16:54:12.000000Z"
+        }
+      }
+    ],
+    "user_id": "1c035de3-0a9b-4796-bd70-d3a7120bef2c",
+    "latest_user_id": "1c035de3-0a9b-4796-bd70-d3a7120bef2c",
+    "member_id": "6fcaa41b-c5f0-4ce8-b1d7-f893c3eedb56",
+    "description": "<p><span style=\"color:#000000\">Our project strategy was to deploy a crack team to first understand the Tenant&rsquo;s expansion plans and assumptions over the next 10 years. This would ensure a future-proofed portfolio and clear negotiation parameters for a complex, 10-year plan.<br />\n<br />\nOver the course of our efforts, we found that identifying a compelling relocation option was key to having the Renewal Landlord compete with creative solutions and value to retain the Tenant.<br />\n<br />\nWe engaged the Renewal Landlord on relocating existing tenancies to meet the Tenant&rsquo;s expansion plans over contiguous floors. In doing so, lease expiry exposure the Renewal Landlord was facing was leveraged, to further drive their competitiveness.</span></p>\n\n<p><span style=\"color:#000000\">The highly competitive renewal versus relocation engagement process led to the Renewal Landlord clearing existing tenancies to retain the Tenant over three exclusive, contiguous floors, inclusive of both generic and tailored building enhancements. &nbsp;</span></p>\n\n<p><span style=\"color:#000000\">Additionally, pre-agreed expansion options were successfully negotiated and secured for future-proofing the portfolio. This mitigated having to commit to potentially excessive space in advance. &nbsp;</span></p>\n\n<p><span style=\"color:#000000\">The highly competitive process also achieved a ~20% improvement in occupancy cost from the Renewal Landlord&rsquo;s competitive position. And upon renewal, post-COVID 19 hybrid workplace strategy formulation and corresponding fit out project management would be conducted</span></p>\n<br />\n<br />\n&nbsp;",
+    "featured": null,
+    "featured_at": null,
+    "published": 1,
+    "views": 452,
+    "created_at": "2022-05-11T16:54:12.000000Z",
+    "updated_at": "2022-06-15T16:00:03.000000Z",
+    "member": {
+      "id": "6fcaa41b-c5f0-4ce8-b1d7-f893c3eedb56",
+      "first_name": "Gavin",
+      "last_name": "Mercer",
+      "image": "/images/members/member1.avif",
+      "video": null,
+      "position": "Managing Director",
+      "email": "Gavin.Mercer@thanos-realty.com",
+      "phone": "+65 6555 0170"
+    }
+  },
+  {
+    "id": "dd273532-979d-40b3-a3dc-2f672bfbabaf",
+    "title": "Fast-growing financial institution",
+    "slug": "fast-growing-financial-institution",
+    "summary": "Making a consolidation happen by striking a lower rent ahead of the market",
+    "image": "/images/case2.avif",
+    "size": "Above 15,000 sq ft",
+    "precinct": "Raffles Place/Marina Bay",
+    "services": "[{\"label\": \"Secure Space\", \"value\": \"Secure Space\"}]",
+    "published_at": "2022-05-11 16:48:00",
+    "model": "CaseStory",
+    "categories": [
+      {
+        "id": "5dba65a4-7c20-4468-b5eb-01b23d9cc1c7",
+        "name": "Workplace",
+        "slug": "workplace",
+        "description": "workplace",
+        "counts": 3,
+        "created_at": "2022-05-10T18:15:53.000000Z",
+        "updated_at": "2022-06-15T06:19:12.000000Z",
+        "pivot": {
+          "case_story_id": "dd273532-979d-40b3-a3dc-2f672bfbabaf",
+          "category_id": "5dba65a4-7c20-4468-b5eb-01b23d9cc1c7",
+          "created_at": "2022-05-11T16:47:54.000000Z",
+          "updated_at": "2022-05-11T16:47:54.000000Z"
+        }
+      }
+    ],
+    "user_id": "1c035de3-0a9b-4796-bd70-d3a7120bef2c",
+    "latest_user_id": "1c035de3-0a9b-4796-bd70-d3a7120bef2c",
+    "member_id": "6fcaa41b-c5f0-4ce8-b1d7-f893c3eedb56",
+    "description": "<p><span style=\"color:#000000\">In order to meet the Tenant&rsquo;s budget, we deployed the strategy to identify a Landlord who would lower rent expectations ahead of slowing down market. In return, secured occupancy would be a guarantee.</span></p> <p><span style=\"color:#000000\">A consolidation of various entities and locations was preferred by the Tenant. However, a target cost needed to be achieved to make such a consolidation viable. To that end, we identified choice buildings with potential vacancies, and ones that were potentially more negotiable when it came to rent pricing.</span></p> <p><span style=\"color:#000000\">We also leveraged the Tenant&rsquo;s premium brand value they would bring to any building they occupied, while focusing on having the Landlord understand the viable costs involved for the Tenant.&nbsp;<br /> <br /> Concurrently, we worked with the Landlord to lower their rent expectations using data supporting an imminent office market slow down.<br /> <br /> To close the deal, we successfully negotiated a final reduction in rent by 10%, leading the creation of a consolidation that would make a viable business case for the Tenant.</span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+    "featured": null,
+    "featured_at": null,
+    "published": 1,
+    "views": 387,
+    "created_at": "2022-05-11T16:47:54.000000Z",
+    "updated_at": "2022-06-15T16:00:03.000000Z",
+    "member": {
+      "id": "6fcaa41b-c5f0-4ce8-b1d7-f893c3eedb56",
+      "first_name": "Gavin",
+      "last_name": "Mercer",
+      "image": "/images/members/member1.avif",
+      "video": null,
+      "position": "Managing Director",
+      "email": "Gavin.Mercer@thanos-realty.com",
+      "phone": "+65 6555 0170"
+    }
+  }
+]

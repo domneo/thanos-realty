@@ -1,0 +1,93 @@
+[
+  {
+    "id": "6fcaa41b-c5f0-4ce8-b1d7-f893c3eedb56",
+    "first_name": "Gavin",
+    "last_name": "Mercer",
+    "position": "Managing Director",
+    "email": "Gavin.Mercer@thanos-realty.com",
+    "mobile": "+65 9123 4708",
+    "phone": "+65 6555 0170",
+    "image": "/images/members/member1.avif",
+    "video": null,
+    "featured": 1,
+    "featured_at": "2022-06-15 01:12:00"
+  },
+  {
+    "id": "8422ba0c-c13d-4888-aa51-f6f4124acb7d",
+    "first_name": "Elias",
+    "last_name": "Haddad",
+    "position": "Advisor",
+    "email": "Elias.Haddad@thanos-realty.com",
+    "mobile": "+65 9345 1182",
+    "phone": "+65 6555 0170",
+    "image": "/images/members/member7.avif",
+    "video": null,
+    "featured": null,
+    "featured_at": null
+  },
+  {
+    "id": "ea707aeb-c5b2-4b85-80b9-89671409cfe6",
+    "first_name": "Lucas",
+    "last_name": "Brenner",
+    "position": "Advisor",
+    "email": "Lucas.Brenner@thanos-realty.com",
+    "mobile": "+65 9188 6420",
+    "phone": "+65 6555 0170",
+    "image": "/images/members/member4.avif",
+    "video": null,
+    "featured": null,
+    "featured_at": null
+  },
+  {
+    "id": "c9c02b9b-23ac-47c4-9d20-810ff4b60fda",
+    "first_name": "Daniel",
+    "last_name": "Reyes",
+    "position": "Advisor",
+    "email": "Daniel.Reyes@thanos-realty.com",
+    "mobile": "+65 9276 3315",
+    "phone": "+65 6555 0170",
+    "image": "/images/members/member6.avif",
+    "video": null,
+    "featured": null,
+    "featured_at": null
+  },
+  {
+    "id": "c2fd2fc5-3611-4079-970e-9e6848714698",
+    "first_name": "Adrian",
+    "last_name": "Novak",
+    "position": "Advisor",
+    "email": "Adrian.Novak@thanos-realty.com",
+    "mobile": "+65 8451 9037",
+    "phone": "+65 6555 0170",
+    "image": "/images/members/member3.avif",
+    "video": null,
+    "featured": null,
+    "featured_at": null
+  },
+  {
+    "id": "b5893257-5de8-4779-8dd1-ba27808602bb",
+    "first_name": "Naomi",
+    "last_name": "Castillo",
+    "position": "Director",
+    "email": "Naomi.Castillo@thanos-realty.com",
+    "mobile": "+65 9064 2258",
+    "phone": "+65 6555 0170",
+    "image": "/images/members/member2.avif",
+    "video": null,
+    "featured": null,
+    "featured_at": null
+  },
+  {
+    "id": "6574fded-c5c6-4620-a4c9-fdf35b39ae93",
+    "first_name": "Ingrid",
+    "last_name": "Lindqvist",
+    "position": "Head, Workplace Consulting",
+    "email": "Ingrid.Lindqvist@thanos-realty.com",
+    "mobile": "+65 8790 5163",
+    "phone": "+65 6555 0170",
+    "image": "/images/members/member5.avif",
+    "video": null,
+    "featured": null,
+    "featured_at": null
+  }
+]

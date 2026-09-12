@@ -1,0 +1,217 @@
+[
+  {
+    "id": "006b9829-0cb6-4260-a0db-413c70a3b5b1",
+    "title": "The problem home offices cannot solve",
+    "slug": "the-problem-home-offices-cannot-solve",
+    "summary": "The truth is: the home will not be a replacement for the workplace",
+    "image": "/images/post1.avif",
+    "published_at": "2022-06-14 02:38:00",
+    "model": "Post",
+    "member": "Ingrid Lindqvist",
+    "categories": [
+      {
+        "id": "e6e0e452-e559-4016-ba96-f2350b1b45c6",
+        "name": "Workplace",
+        "slug": "workplace",
+        "description": "workplace",
+        "counts": 3,
+        "created_at": "2022-05-10T18:15:53.000000Z",
+        "updated_at": "2022-06-15T06:20:31.000000Z",
+        "pivot": {
+          "post_id": "006b9829-0cb6-4260-a0db-413c70a3b5b1",
+          "category_id": "e6e0e452-e559-4016-ba96-f2350b1b45c6",
+          "created_at": "2022-05-11T05:35:38.000000Z",
+          "updated_at": "2022-05-11T05:35:38.000000Z"
+        }
+      }
+    ],
+    "content": "<p>The outbreak of the COVID-19 pandemic presented a once-in-a-lifetime opportunity for organisations to rethink their office space. As individuals, we scrambled to face a spectrum of conditions in our work and workplace in a short time, and companies across the globe have been mobilised to respond to these conditions.<br /> <br /> This collective effort has resulted in establishing &lsquo;the new normal&rsquo;, leaving a big mark on the corporate real estate industry. However, despite the creative problem statements and inspiring initiatives, the circulation of thoughts around &lsquo;the new normal&rsquo; has not been able to effectively theorise the dependency of work on the workplace.<br /> <br /> An overemphasis on acknowledging the needs of work from home (WFH) and work from anywhere (WFA) has led to the creation of a divide between how homes and offices are defined. We have also accelerated the adoption of technology, which has enabled less dependency on the physical workplace. A common conclusion: office space is not a necessity.<br /> <br /> This presumption has helped many companies and individuals start correcting some of their past mistakes of establishing rigid and inefficient work arrangements. However, sufficient serviceable insights for future planning remain wanting. The truth is: the home will not be a replacement for the workplace. The office will not go away.<br /> <br /> I&rsquo;d like to see both homes and offices as inter-relating components of one ecosystem that share more than divide. One crucial step is to liberate our thoughts from strictly defining &lsquo;home&rsquo; versus &lsquo;office&rsquo;; instead, the focus should be on how they can both grow in harmony to support the transformation of an all-encompassing work environment.<br /> <br /> The new normal is less about <em>where</em> work is done, as it is about<em> how</em>. And the journey of transformation is set up through a fresh fitout and a new workplace culture that realises the true opportunities for flexible working.</p>",
+    "members": [
+      {
+        "id": "6574fded-c5c6-4620-a4c9-fdf35b39ae93",
+        "first_name": "Ingrid",
+        "last_name": "Lindqvist",
+        "image": "/images/members/member5.avif",
+        "video": null,
+        "position": "Head, Workplace Consulting",
+        "email": "Ingrid.Lindqvist@thanos-realty.com",
+        "phone": "+65 6555 0170",
+        "pivot": {
+          "post_id": "006b9829-0cb6-4260-a0db-413c70a3b5b1",
+          "member_id": "6574fded-c5c6-4620-a4c9-fdf35b39ae93",
+          "created_at": "2022-05-11T05:35:38.000000Z",
+          "updated_at": "2022-05-11T05:35:38.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "views": 4,
+    "created_at": "2022-06-14 02:38:00",
+    "updated_at": "2022-06-14 02:38:00"
+  },
+  {
+    "id": "82aa4982-7ca6-4f9e-ad4c-d4455cc620f9",
+    "title": "“How does it work” is a technological question",
+    "slug": "how-does-it-work-is-a-technological-question",
+    "summary": "The articulation of the tech world helps us contextualise things in our workday, but there is one more underlying consideration",
+    "image": "/images/post2.avif",
+    "published_at": "2022-06-13 14:12:00",
+    "model": "Post",
+    "member": "Ingrid Lindqvist",
+    "categories": [
+      {
+        "id": "e6e0e452-e559-4016-ba96-f2350b1b45c6",
+        "name": "Workplace",
+        "slug": "workplace",
+        "description": "workplace",
+        "counts": 3,
+        "created_at": "2022-05-10T18:15:53.000000Z",
+        "updated_at": "2022-06-15T06:20:31.000000Z",
+        "pivot": {
+          "post_id": "82aa4982-7ca6-4f9e-ad4c-d4455cc620f9",
+          "category_id": "e6e0e452-e559-4016-ba96-f2350b1b45c6",
+          "created_at": "2022-05-11T05:38:03.000000Z",
+          "updated_at": "2022-05-11T05:38:03.000000Z"
+        }
+      }
+    ],
+    "content": "<p>The history of work is the history of technology. In fact, some philosophical accounts attest that the history of work also reflects the history of mankind.<br /> <br /> In the context of the modern workplace, it can be read through an investigation of tools and technology that offices and office workers have developed so far. Our relationship with work and the work environment is mediated by technology, and how we perceive our work environment&nbsp; and we act upon it weaves a tapestry of inter-relations that can be categorised as such:</p> <ol> <li>Embodied work technologies, or ergonomic tools and accessories that attach to part of our body and magnify certain aspects of its experience</li> <li>Interpretive work technology, or programming and accounting applications and face recognition interfaces that help us communicate a message or command</li> <li>In-context technology, or devices such as airconditioning that reside in the background of where work is done. Their peripheral presence influences our overall perception of the work environment</li> <li>Simulating technology, or the likes of VR and AR goggles, the metaverse and even 3D simulators that mimic person-to-person relationships via their interface</li> </ol> This articulation of the tech world helps us contextualise things in our workday. But there is one more underlying consideration that is nearly impossible to ignore: the fear for the future. Our thoughts on the future are already saturated with technology. The question is, how would our relations evolve through this multifaceted apparition of solutions and realities prospering in unimaginable size and speed? <p>The future of work technology calls for hope in as much as fear. The changes will be most lucid in perception, and system of relations. The way we communicate with technology or utilise them for our environmental interactions will continue evolving till we reach a state of perfection.<br /> <br /> Would that be unsettling? Would that be exciting? Probably a bit of both.<br /> <br /> Either way, we need to deal with it, and embrace fast-evolving concepts such as Artificial Intelligence and smart tools that are a lot more advanced and confusing than hammers, pens or screwdrivers. One important reason is that their systemic logic has evolved to an exponentially sophisticated degree.<br /> <br /> To leverage them efficiently, we need to first understand such systemic relations. After all, between us, technology, and our work environment, the mutual evolution accounts for all-encompassing effects and actions.</p>",
+    "members": [
+      {
+        "id": "6574fded-c5c6-4620-a4c9-fdf35b39ae93",
+        "first_name": "Ingrid",
+        "last_name": "Lindqvist",
+        "image": "/images/members/member5.avif",
+        "video": null,
+        "position": "Head, Workplace Consulting",
+        "email": "Ingrid.Lindqvist@thanos-realty.com",
+        "phone": "+65 6555 0170",
+        "pivot": {
+          "post_id": "82aa4982-7ca6-4f9e-ad4c-d4455cc620f9",
+          "member_id": "6574fded-c5c6-4620-a4c9-fdf35b39ae93",
+          "created_at": "2022-05-11T05:38:04.000000Z",
+          "updated_at": "2022-05-11T05:38:04.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "views": 3,
+    "created_at": "2022-06-13 14:12:00",
+    "updated_at": "2022-06-13 14:12:00"
+  },
+  {
+    "id": "618925bd-6a88-4782-ab0f-63891ad538f7",
+    "title": "Back to the office in 2022",
+    "slug": "back-to-the-office-in-2022",
+    "summary": "With the government not expected to release land sites for office use in the short-term, office leasing activity is expected to remain firm",
+    "image": "/images/post3.avif",
+    "published_at": "2022-05-11 05:36:00",
+    "model": "Post",
+    "member": "Gavin Mercer",
+    "categories": [
+      {
+        "id": "fac971aa-8f59-4f20-87ce-2e891a9f2914",
+        "name": "Market Reports",
+        "slug": "market-reports",
+        "description": "Market Reports",
+        "counts": 2,
+        "created_at": "2022-05-10T18:15:53.000000Z",
+        "updated_at": "2022-05-11T16:26:09.000000Z",
+        "pivot": {
+          "post_id": "618925bd-6a88-4782-ab0f-63891ad538f7",
+          "category_id": "fac971aa-8f59-4f20-87ce-2e891a9f2914",
+          "created_at": "2022-05-11T13:51:01.000000Z",
+          "updated_at": "2022-05-11T13:51:01.000000Z"
+        }
+      }
+    ],
+    "content": "<p><span style=\"color:#000000\">Prime Grade office rents in the Raffles Place / Marina Bay precinct increased for the third consecutive quarter in Q1 2022 after bottoming out in mid-2021. Prime office rents inched up 1.2% q-o-q to S$10.25 psf pm, extending the 1.7% growth in H2 2021. As the COVID-19 situation stabilises and more return to the office, the previously tenant-led leasing market will move towards more balance between landlords and tenants.<br /> <br /> Occupancy levels in the Raffles Place/Marina Bay precinct bounced back in Q1, improving by 2.3 percentage points to 94.1% as tenants successively filled up the fully leased CapitaSpring building. While about 147,000 sf of shadow space was introduced into the market with some banks continuing to downsize, bringing total pre-termination space to about 226,000 sf in Q1 2022, these spaces are expected to be filled sooner rather than later with the easing of COVID-19 restrictions in the workplace.<br /> <br /> With the government&rsquo;s push for single ownership in key central areas, office buildings will be better managed (both the hardware and software), while tenants can also achieve scalability. Therefore, the restrictions on strata subdivisions in commercial complexes in these CBD areas will pave the way for more world-class office spaces commensurate with Singapore&rsquo;s status as a global business hub. Quality office space will become increasingly paramount, as employees now expect work environments to be more conducive than homes to induce a return to physical offices.<br /> <br /> According to a March 2022 report by the European Chamber of Commerce in Hong Kong, almost half of the companies (49%) surveyed were planning to either fully or partially relocate from the country due to geopolitical tensions and stringent COVID-19 measures. Singapore is expected to be a key beneficiary and was identified as the greatest competitive threat to Hong Kong by 80% of the respondents. Some professionals and companies are likely to relocate to Singapore, undergirding office demand.<br /> <br /> The expansion of technology players and non-bank financial services was again a top driver of office space demand. Chinese tech firms continued their expansion to Singapore given regulatory curbs and mounting tensions from key markets. Examples include Chinese online retailer Shein recently taking up 22,000 sf of space in MBFC Tower 3, and Cryptocurrency firm Yescom Technology (formerly Huobi International) taking up 17,000 sf in Millennial Tower.<br /> <br /> While technology companies are embracing remote working models to attract globally dispersed talents, the need for physical hubs with supporting digital infrastructure is not diminished. Some 39% of global tech leaders in the 2021 KPMG Technology Industry Survey believe physical hubs to be vital for the coalescence of ideas, and 92% are convinced that offices will exist at least for the next four years. Singapore, which topped KPMG&rsquo;s ranking of leading technology innovation hubs, is primed to attract tech firms to establish offices here.<br /> <br /> With Russia&rsquo;s invasion of Ukraine bringing a new dimension of uncertainty, the significant lifting of COVID-19 curbs from 29 March is expected to provide a much welcome boost.<br /> <br /> For 2022, GDP growth is forecasted to be in the range of &ldquo;3.0% to 5.0%&rdquo;. The ManpowerGroup Outlook Survey Q2 2022 revealed that 42% of Singaporean companies expect to increase their headcount, led by IT, Technology, Telecoms, Communications and Media with the strongest outlook at 38%. Fintech company Wise, for example, plans to hire 150 Singapore office roles this year.<br /> <br /> With the limited upcoming supply of CBD Grade A offices and the government not expected to release land sites for office use in the short-term, office leasing activity is expected to remain firm especially as up to 75% of employees are now allowed to return to the workplace. Going forward, Thanos Realty maintains a forecast of 3% to 5% growth in rents for the whole of 2022.</span></p>",
+    "members": [
+      {
+        "id": "6fcaa41b-c5f0-4ce8-b1d7-f893c3eedb56",
+        "first_name": "Gavin",
+        "last_name": "Mercer",
+        "image": "/images/members/member1.avif",
+        "video": null,
+        "position": "Managing Director",
+        "email": "Gavin.Mercer@thanos-realty.com",
+        "phone": "+65 6555 0170",
+        "pivot": {
+          "post_id": "618925bd-6a88-4782-ab0f-63891ad538f7",
+          "member_id": "6fcaa41b-c5f0-4ce8-b1d7-f893c3eedb56",
+          "created_at": "2022-05-11T16:36:05.000000Z",
+          "updated_at": "2022-05-11T16:36:05.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "views": 1,
+    "created_at": "2022-05-11 05:36:00",
+    "updated_at": "2022-05-11 05:36:00"
+  },
+  {
+    "id": "b3988297-60ff-4b74-8fcd-4fe62be21e1f",
+    "title": "Workplaces, and the reinvention of humans",
+    "slug": "workplaces-and-the-reinvention-of-humans",
+    "summary": "An office worker and his or her work environment enjoy a symbiotic relationship",
+    "image": "/images/post4.avif",
+    "published_at": "2022-05-11 03:14:00",
+    "model": "Post",
+    "member": "Ingrid Lindqvist",
+    "categories": [
+      {
+        "id": "e6e0e452-e559-4016-ba96-f2350b1b45c6",
+        "name": "Workplace",
+        "slug": "workplace",
+        "description": "workplace",
+        "counts": 3,
+        "created_at": "2022-05-10T18:15:53.000000Z",
+        "updated_at": "2022-06-15T06:20:31.000000Z",
+        "pivot": {
+          "post_id": "b3988297-60ff-4b74-8fcd-4fe62be21e1f",
+          "category_id": "e6e0e452-e559-4016-ba96-f2350b1b45c6",
+          "created_at": "2022-05-11T05:34:09.000000Z",
+          "updated_at": "2022-05-11T05:34:09.000000Z"
+        }
+      },
+      {
+        "id": "fac971aa-8f59-4f20-87ce-2e891a9f2914",
+        "name": "Market Reports",
+        "slug": "market-reports",
+        "description": "Market Reports",
+        "counts": 2,
+        "created_at": "2022-05-10T18:15:53.000000Z",
+        "updated_at": "2022-05-11T16:26:09.000000Z",
+        "pivot": {
+          "post_id": "b3988297-60ff-4b74-8fcd-4fe62be21e1f",
+          "category_id": "fac971aa-8f59-4f20-87ce-2e891a9f2914",
+          "created_at": "2022-05-11T16:24:58.000000Z",
+          "updated_at": "2022-05-11T16:24:58.000000Z"
+        }
+      }
+    ],
+    "content": "<p><span style=\"color:#000000\">In 1868, Christopher Latham Sholes invented the modern typewriter. Today, almost any device we use for work offers a convenient way to type our commands.<br /> <br /> In the 1920s, Philo Farnsworth invented the television. In 1959, IBM and General Motors developed the first computer-aided design (CAD) system. Today, video conferencing is easily available almost anywhere on the planet.</span></p> <p><span style=\"color:#000000\">In the 1950s, Martin Heit created the first whiteboard. Since the 1990s, it&rsquo;s been a common collaboration tool in every office.<br /> <br /> The message is clear: we have overhauled our tools, environment, level of speed, comfort, and precision in everything we do. We have even restructured our relationships with others in many ways. All this, in our quest for continuous development.<br /> <br /> Just two years ago, we were working in our offices, using all the modern types of machinery, thinking about the future in terms of the 5G internet, reinforcing social justice and cultural values, improving collaboration and increasing productivity.</span></p> <p>&nbsp;</p> <p><img alt=\"\" height=\"526\" src=\"/images/post1.avif\" width=\"1051\" /></p> <p>&nbsp;</p> <p><span style=\"color:#000000\">Soon after, the unprecedented COVID-19 pandemic massively impacted our environment, and saw us develop new habits: sitting apart from colleagues, struggling with the VPN connections while working from home, rediscovering the joys of staying-in though we missed social interactions with other.</span></p> <p><span style=\"color:#000000\">Change has been a two-way street. The pandemic not only created a parallel world to our perception of the environment, but shed light on the changes taking place in our work environment, emphasising the importance of change itself.</span></p> <p><span style=\"color:#000000\">So much attention has been paid to the technical apparatus that help us carry out our daily tasks with more care, speed, and sophistication. As important as it is to have the right software, network access, and IT skillsets to complete any specific task, it is also important where our laptops are placed, our sitting/standing positions, ensuring good light and air quality in the room, having healthy levels of white noise around us, and many other contextual conditions to check off our daily To Do lists.<br /> <br /> A nurturing workplace addresses the core of this carefully. An office worker and his or her work environment enjoy a symbiotic relationship: the development of one is intertwined with the conditions of the other. One implies the other, and only the genetic makeup of the office worker and the building design for the work environment are pre-determined.&nbsp; The rest is a mutual act and influence that cuts through the emergent interface between the two.<br /> <br /> That is why the shift towards hybrid working has become crucial in understanding how the psychology of work is evolving for today&rsquo;s working professionals &mdash; both in the individual and collective (cultural) stance.</span></p>",
+    "members": [
+      {
+        "id": "6574fded-c5c6-4620-a4c9-fdf35b39ae93",
+        "first_name": "Ingrid",
+        "last_name": "Lindqvist",
+        "image": "/images/members/member5.avif",
+        "video": null,
+        "position": "Head, Workplace Consulting",
+        "email": "Ingrid.Lindqvist@thanos-realty.com",
+        "phone": "+65 6555 0170",
+        "pivot": {
+          "post_id": "b3988297-60ff-4b74-8fcd-4fe62be21e1f",
+          "member_id": "6574fded-c5c6-4620-a4c9-fdf35b39ae93",
+          "created_at": "2022-05-11T03:20:27.000000Z",
+          "updated_at": "2022-05-11T03:20:27.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "views": 2,
+    "created_at": "2022-05-11 03:14:00",
+    "updated_at": "2022-05-11 03:14:00"
+  }
+]

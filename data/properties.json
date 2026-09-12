@@ -1,0 +1,2182 @@
+[
+  {
+    "id": "7c252993-ca3d-455e-956d-23e02ac7e101",
+    "title": "Tokio Marine Centre",
+    "slug": "tokio-marine-centre",
+    "summary": null,
+    "description": "Located in the Shenton Way / Robinson Road / Tanjong Pagar CBD precinct, Tokio Marine Centre is close to daily amenities for the office population, public transportation and ECP, AYE and MCE arterial expressways.",
+    "precinct": "Tanjong Pagar/Shenton Way",
+    "mrt": "Downtown Station",
+    "typical_floor_plate": "7,000",
+    "year_built": "2010",
+    "building_size": 161072,
+    "stories": 21,
+    "ideal_rent_price": "8.00",
+    "ideal_rent_text": null,
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/tokio1.avif",
+    "images": [
+      {
+        "id": "c6e1c8cb-c743-4594-8333-73e4101fb9f2",
+        "property_id": "7c252993-ca3d-455e-956d-23e02ac7e101",
+        "url": "/images/properties/tokio1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/tokio1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-22T09:31:27.000000Z",
+        "updated_at": "2022-05-25T11:17:54.000000Z"
+      },
+      {
+        "id": "36e710ba-ac27-495a-9adb-ed5f3f26ad66",
+        "property_id": "7c252993-ca3d-455e-956d-23e02ac7e101",
+        "url": "/images/properties/tokio2.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/tokio2.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:31:27.000000Z",
+        "updated_at": "2022-05-25T11:17:54.000000Z"
+      },
+      {
+        "id": "308174b5-4929-4b20-a5e3-8e70338adc10",
+        "property_id": "7c252993-ca3d-455e-956d-23e02ac7e101",
+        "url": "/images/properties/tokio3.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/tokio3.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:31:27.000000Z",
+        "updated_at": "2022-05-25T11:17:54.000000Z"
+      },
+      {
+        "id": "2260981d-cfde-43a0-863f-3d7b3c006430",
+        "property_id": "7c252993-ca3d-455e-956d-23e02ac7e101",
+        "url": "/images/properties/tokio4.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/tokio4.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:31:27.000000Z",
+        "updated_at": "2022-05-25T11:17:54.000000Z"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "7c252993-ca3d-455e-956d-23e02ac7e101",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-22T09:32:10.000000Z",
+          "updated_at": "2022-05-22T09:32:10.000000Z"
+        }
+      },
+      {
+        "id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+        "name": "Green Mark Goldplus",
+        "pivot": {
+          "property_id": "7c252993-ca3d-455e-956d-23e02ac7e101",
+          "facility_id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+          "created_at": "2022-05-22T09:32:10.000000Z",
+          "updated_at": "2022-05-22T09:32:10.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-15 00:00:00",
+    "created_at": "2022-06-15 00:00:00",
+    "updated_at": "2022-06-15 00:00:00"
+  },
+  {
+    "id": "c85d19ab-b2ec-466d-91f0-4938c8d0c812",
+    "title": "TripleOne Somerset",
+    "slug": "tripleone-somerset",
+    "summary": null,
+    "description": "Located in the Orchard Road precinct, Tripleone Somerset is close to daily amenities for the office population, public transportation and CTE and PIE arterial expressways.",
+    "precinct": "Orchard",
+    "mrt": "Orchard",
+    "typical_floor_plate": "20,000",
+    "year_built": "1975",
+    "building_size": 494522,
+    "stories": 15,
+    "ideal_rent_price": "9.00",
+    "ideal_rent_text": null,
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/tripleone1.jpg",
+    "images": [
+      {
+        "id": "7790f5ba-f4a2-4b89-b7dc-7491518f141b",
+        "property_id": "c85d19ab-b2ec-466d-91f0-4938c8d0c812",
+        "url": "/images/properties/tripleone1.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/tripleone1.jpg",
+        "is_main": 1,
+        "created_at": "2022-05-22T09:25:34.000000Z",
+        "updated_at": "2022-05-22T09:27:03.000000Z"
+      },
+      {
+        "id": "3cab6442-b733-4272-88b3-31188b06f728",
+        "property_id": "c85d19ab-b2ec-466d-91f0-4938c8d0c812",
+        "url": "/images/properties/tripleone2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/tripleone2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:25:34.000000Z",
+        "updated_at": "2022-05-22T09:27:03.000000Z"
+      },
+      {
+        "id": "cf705082-62ad-4622-96fe-4e3a6e863870",
+        "property_id": "c85d19ab-b2ec-466d-91f0-4938c8d0c812",
+        "url": "/images/properties/tripleone3.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/tripleone3.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:25:34.000000Z",
+        "updated_at": "2022-05-22T09:27:03.000000Z"
+      },
+      {
+        "id": "84fb2015-2747-491a-88df-35ad489d3311",
+        "property_id": "c85d19ab-b2ec-466d-91f0-4938c8d0c812",
+        "url": "/images/properties/tripleone4.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/tripleone4.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:25:34.000000Z",
+        "updated_at": "2022-05-22T09:27:03.000000Z"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "c85d19ab-b2ec-466d-91f0-4938c8d0c812",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-22T09:27:12.000000Z",
+          "updated_at": "2022-05-22T09:27:12.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "c85d19ab-b2ec-466d-91f0-4938c8d0c812",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-22T09:27:12.000000Z",
+          "updated_at": "2022-05-22T09:27:12.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-14 00:00:00",
+    "created_at": "2022-06-14 00:00:00",
+    "updated_at": "2022-06-14 00:00:00"
+  },
+  {
+    "id": "d1d42b0b-c6e4-4202-afc4-94d5eb7fcf40",
+    "title": "Odeon Towers",
+    "slug": "odeon-towers",
+    "summary": null,
+    "description": "Located in the Bugis CBD precinct, Odeon Towers is close to daily amenities for the office population, public transportation and PIE, ECP, KPE and MCE arterial expressways.",
+    "precinct": "Beach Road/Middle Road",
+    "mrt": "City Hall / Esplanade Station",
+    "typical_floor_plate": "6,800 - 8,800",
+    "year_built": "1992",
+    "building_size": 170780,
+    "stories": 23,
+    "ideal_rent_price": "8.00",
+    "ideal_rent_text": null,
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/odeon1.avif",
+    "images": [
+      {
+        "id": "f6d1f66b-e9eb-41f4-90e1-ea407a4eb6a8",
+        "property_id": "d1d42b0b-c6e4-4202-afc4-94d5eb7fcf40",
+        "url": "/images/properties/odeon1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/odeon1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-22T09:44:51.000000Z",
+        "updated_at": "2022-05-22T09:44:51.000000Z"
+      },
+      {
+        "id": "96a30706-f11a-4f11-9d0d-df08c077bd8e",
+        "property_id": "d1d42b0b-c6e4-4202-afc4-94d5eb7fcf40",
+        "url": "/images/properties/odeon2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/odeon2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:44:51.000000Z",
+        "updated_at": "2022-05-22T09:44:51.000000Z"
+      },
+      {
+        "id": "08c071e8-efb2-45f2-8662-c3da3ce5346e",
+        "property_id": "d1d42b0b-c6e4-4202-afc4-94d5eb7fcf40",
+        "url": "/images/properties/odeon3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/odeon3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:44:51.000000Z",
+        "updated_at": "2022-05-22T09:44:51.000000Z"
+      },
+      {
+        "id": "e9d2461d-8ff9-4b45-98be-f524af1f22df",
+        "property_id": "d1d42b0b-c6e4-4202-afc4-94d5eb7fcf40",
+        "url": "/images/properties/odeon4.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/odeon4.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:44:51.000000Z",
+        "updated_at": "2022-05-22T09:44:51.000000Z"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "d1d42b0b-c6e4-4202-afc4-94d5eb7fcf40",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-22T09:21:05.000000Z",
+          "updated_at": "2022-05-22T09:21:05.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-13 00:00:00",
+    "created_at": "2022-06-13 00:00:00",
+    "updated_at": "2022-06-13 00:00:00"
+  },
+  {
+    "id": "120fece2-3319-4558-b791-f21898956802",
+    "title": "SingPost Centre",
+    "slug": "singpost-centre",
+    "summary": null,
+    "description": "Located in the Paya Lebar CBD fringe precinct, Singapore Post Centre is close to daily amenities for the office population, public transportation and KPE, PIE and ECP arterial expressways.",
+    "precinct": "East - Paya Lebar / Tampines",
+    "mrt": "Paya Lebar Station",
+    "typical_floor_plate": "11,296 – 49,920",
+    "year_built": "1999",
+    "building_size": 302764,
+    "stories": 14,
+    "ideal_rent_price": "6.50",
+    "ideal_rent_text": null,
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/singpost1.avif",
+    "images": [
+      {
+        "id": "a6943eef-998c-4590-af9b-f0d09ddc79d5",
+        "property_id": "120fece2-3319-4558-b791-f21898956802",
+        "url": "/images/properties/singpost1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/singpost1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-22T09:41:53.000000Z",
+        "updated_at": "2022-05-22T09:42:13.000000Z"
+      },
+      {
+        "id": "060839e7-c008-4e65-86d8-1ba4e8d9afa1",
+        "property_id": "120fece2-3319-4558-b791-f21898956802",
+        "url": "/images/properties/singpost2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/singpost2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:41:53.000000Z",
+        "updated_at": "2022-05-22T09:42:13.000000Z"
+      },
+      {
+        "id": "77c78f0e-e0ca-40e3-9335-e2111ba6d473",
+        "property_id": "120fece2-3319-4558-b791-f21898956802",
+        "url": "/images/properties/singpost3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/singpost3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:41:53.000000Z",
+        "updated_at": "2022-05-22T09:42:13.000000Z"
+      },
+      {
+        "id": "84f7aa7b-9962-46f8-a514-4e5416272eb2",
+        "property_id": "120fece2-3319-4558-b791-f21898956802",
+        "url": "/images/properties/singpost4.avif",
+        "description": null,
+        "thumbnail": "/images/properties/singpost4.avif",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:41:53.000000Z",
+        "updated_at": "2022-05-22T09:42:13.000000Z"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "120fece2-3319-4558-b791-f21898956802",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-22T09:42:19.000000Z",
+          "updated_at": "2022-05-22T09:42:19.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "120fece2-3319-4558-b791-f21898956802",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-22T09:42:19.000000Z",
+          "updated_at": "2022-05-22T09:42:19.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-12 00:00:00",
+    "created_at": "2022-06-12 00:00:00",
+    "updated_at": "2022-06-12 00:00:00"
+  },
+  {
+    "id": "5c007617-4a62-4806-9677-c3422cde9b88",
+    "title": "NTUC Income Tampines Junction",
+    "slug": "ntuc-income-tampines-junction",
+    "summary": null,
+    "description": "Located in the Tampines fringe precinct, NTUC Income Tampines Junction is close to daily amenities for the office population, public transportation and TPE, PIE and ECP arterial expressways.",
+    "precinct": "East - Paya Lebar / Tampines",
+    "mrt": "Tampines / Tampines East Station",
+    "typical_floor_plate": "24,077",
+    "year_built": "1997",
+    "building_size": 159058,
+    "stories": 9,
+    "ideal_rent_price": "5.80",
+    "ideal_rent_text": null,
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/ntuc1.avif",
+    "images": [
+      {
+        "id": "6df7b583-d89b-4a0c-a5b3-b985776a5a1a",
+        "property_id": "5c007617-4a62-4806-9677-c3422cde9b88",
+        "url": "/images/properties/ntuc1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ntuc1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-22T09:44:10.000000Z",
+        "updated_at": "2022-05-22T09:44:14.000000Z"
+      },
+      {
+        "id": "7c7808f7-cd5f-48c6-a1a9-7dc347e11efe",
+        "property_id": "5c007617-4a62-4806-9677-c3422cde9b88",
+        "url": "/images/properties/ntuc2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ntuc2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:44:10.000000Z",
+        "updated_at": "2022-05-22T09:44:14.000000Z"
+      },
+      {
+        "id": "bb6c8fa1-8723-4688-aec0-b6a200d02f9e",
+        "property_id": "5c007617-4a62-4806-9677-c3422cde9b88",
+        "url": "/images/properties/ntuc3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ntuc3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:44:10.000000Z",
+        "updated_at": "2022-05-22T09:44:14.000000Z"
+      },
+      {
+        "id": "5d5687d9-3b93-4744-95e6-7528364b4dd1",
+        "property_id": "5c007617-4a62-4806-9677-c3422cde9b88",
+        "url": "/images/properties/ntuc4.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ntuc4.avif",
+        "is_main": 0,
+        "created_at": "2022-05-22T09:44:10.000000Z",
+        "updated_at": "2022-05-22T09:44:14.000000Z"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "5c007617-4a62-4806-9677-c3422cde9b88",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-22T09:44:33.000000Z",
+          "updated_at": "2022-05-22T09:44:33.000000Z"
+        }
+      },
+      {
+        "id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+        "name": "Green Mark Goldplus",
+        "pivot": {
+          "property_id": "5c007617-4a62-4806-9677-c3422cde9b88",
+          "facility_id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+          "created_at": "2022-05-22T09:44:33.000000Z",
+          "updated_at": "2022-05-22T09:44:33.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-11 00:00:00",
+    "created_at": "2022-06-11 00:00:00",
+    "updated_at": "2022-06-11 00:00:00"
+  },
+  {
+    "id": "dfb486a7-56cb-4394-8c80-e73b9aad0f55",
+    "title": "Harbourfront Centre",
+    "slug": "harbourfront-centre",
+    "summary": null,
+    "description": "Located in the HarbourFront CBD fringe precinct, Harbourfront Centre is close to daily amenities for the office population, public transportation and AYE and MCE arterial expressways.",
+    "precinct": "West - Alexandra / Harbourfront / Jurong",
+    "mrt": "Harbourfront Station",
+    "typical_floor_plate": "100,000",
+    "year_built": "1978",
+    "building_size": 709342,
+    "stories": 14,
+    "ideal_rent_price": "6.90",
+    "ideal_rent_text": null,
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/harbourfront1.avif",
+    "images": [
+      {
+        "id": "a803ee42-09f7-4fee-95b0-ee12e4c0c5a3",
+        "property_id": "dfb486a7-56cb-4394-8c80-e73b9aad0f55",
+        "url": "/images/properties/harbourfront1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/harbourfront1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-26T01:18:29.000000Z",
+        "updated_at": "2022-05-26T01:18:29.000000Z"
+      },
+      {
+        "id": "9bce3f73-9ab2-47f4-9447-d0271c7bb664",
+        "property_id": "dfb486a7-56cb-4394-8c80-e73b9aad0f55",
+        "url": "/images/properties/harbourfront2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/harbourfront2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:18:29.000000Z",
+        "updated_at": "2022-05-26T01:18:29.000000Z"
+      },
+      {
+        "id": "c027f813-5b8d-41a1-85a4-8f0efbc9bddc",
+        "property_id": "dfb486a7-56cb-4394-8c80-e73b9aad0f55",
+        "url": "/images/properties/harbourfront3.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/harbourfront3.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:18:29.000000Z",
+        "updated_at": "2022-05-26T01:18:29.000000Z"
+      },
+      {
+        "id": "443f29cc-8578-4fdb-a5f7-4ce899187ac8",
+        "property_id": "dfb486a7-56cb-4394-8c80-e73b9aad0f55",
+        "url": "/images/properties/harbourfront4.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/harbourfront4.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:18:29.000000Z",
+        "updated_at": "2022-05-26T01:18:29.000000Z"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "dfb486a7-56cb-4394-8c80-e73b9aad0f55",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-22T09:38:50.000000Z",
+          "updated_at": "2022-05-22T09:38:50.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "dfb486a7-56cb-4394-8c80-e73b9aad0f55",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-22T09:38:50.000000Z",
+          "updated_at": "2022-05-22T09:38:50.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "dfb486a7-56cb-4394-8c80-e73b9aad0f55",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-22T09:38:50.000000Z",
+          "updated_at": "2022-05-22T09:38:50.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-10 00:00:00",
+    "created_at": "2022-06-10 00:00:00",
+    "updated_at": "2022-06-10 00:00:00"
+  },
+  {
+    "id": "af13119f-2f78-4939-bffc-67d25ad0b97c",
+    "title": "mTower",
+    "slug": "mtower",
+    "summary": null,
+    "description": "Located in the Alexandra CBD fringe precinct, PSA Building is close to daily amenities for the office population, public transportation and AYE and MCE arterial expressways.",
+    "precinct": "West - Alexandra / Harbourfront / Jurong",
+    "mrt": "Labrador Park Station",
+    "typical_floor_plate": "14,693",
+    "year_built": "1985",
+    "building_size": 523858,
+    "stories": 42,
+    "ideal_rent_price": "7.00",
+    "ideal_rent_text": null,
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/mtower1.avif",
+    "images": [
+      {
+        "id": "0520437d-1449-47ea-a2d3-8f3ba774ed2c",
+        "property_id": "af13119f-2f78-4939-bffc-67d25ad0b97c",
+        "url": "/images/properties/mtower1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/mtower1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:17:42.000000Z",
+        "updated_at": "2022-05-18T10:28:45.000000Z"
+      },
+      {
+        "id": "f4000e70-e9f3-47e6-bb74-b2871ebe56a8",
+        "property_id": "af13119f-2f78-4939-bffc-67d25ad0b97c",
+        "url": "/images/properties/mtower2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/mtower2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:17:42.000000Z",
+        "updated_at": "2022-05-18T10:28:45.000000Z"
+      },
+      {
+        "id": "537eaab2-a0ba-4a69-b7e8-3bc842e545ec",
+        "property_id": "af13119f-2f78-4939-bffc-67d25ad0b97c",
+        "url": "/images/properties/mtower3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/mtower3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:17:42.000000Z",
+        "updated_at": "2022-05-18T10:28:45.000000Z"
+      },
+      {
+        "id": "28d7a035-3370-4925-8a7b-f15071df1e38",
+        "property_id": "af13119f-2f78-4939-bffc-67d25ad0b97c",
+        "url": "/images/properties/mtower4.avif",
+        "description": null,
+        "thumbnail": "/images/properties/mtower4.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:17:42.000000Z",
+        "updated_at": "2022-05-18T10:28:45.000000Z"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "af13119f-2f78-4939-bffc-67d25ad0b97c",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-19T02:50:27.000000Z",
+          "updated_at": "2022-05-19T02:50:27.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "af13119f-2f78-4939-bffc-67d25ad0b97c",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-19T02:50:27.000000Z",
+          "updated_at": "2022-05-19T02:50:27.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-09 00:00:00",
+    "created_at": "2022-06-09 00:00:00",
+    "updated_at": "2022-06-09 00:00:00"
+  },
+  {
+    "id": "c2b58028-ec20-4076-9e99-749d3890a353",
+    "title": "Wheelock Place",
+    "slug": "wheelock-place",
+    "summary": null,
+    "description": "Located in the Orchard Road precinct, Wheelock Place is close to daily amenities for the office population, public transportation and CTE and PIE arterial expressways.",
+    "precinct": "Orchard",
+    "mrt": "Orchard Station",
+    "typical_floor_plate": "7,300",
+    "year_built": "1993",
+    "building_size": 175000,
+    "stories": 16,
+    "ideal_rent_price": "11.50",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/wheelock1.jpg",
+    "images": [
+      {
+        "id": "336924c2-20e4-43af-8a89-f3bc4c4027bc",
+        "property_id": "c2b58028-ec20-4076-9e99-749d3890a353",
+        "url": "/images/properties/wheelock1.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/wheelock1.jpg",
+        "is_main": 1,
+        "created_at": "2022-05-26T01:19:12.000000Z",
+        "updated_at": "2022-06-11T12:57:21.000000Z"
+      },
+      {
+        "id": "c154c618-30a6-49f6-88ea-93303d8111c2",
+        "property_id": "c2b58028-ec20-4076-9e99-749d3890a353",
+        "url": "/images/properties/wheelock2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/wheelock2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:19:12.000000Z",
+        "updated_at": "2022-06-11T12:57:21.000000Z"
+      },
+      {
+        "id": "93968371-d0a7-4cc2-802e-f5020f810d4d",
+        "property_id": "c2b58028-ec20-4076-9e99-749d3890a353",
+        "url": "/images/properties/wheelock3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/wheelock3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:19:12.000000Z",
+        "updated_at": "2022-06-11T12:57:21.000000Z"
+      },
+      {
+        "id": "64d440b6-d606-4a59-b94c-bd55e8d02683",
+        "property_id": "c2b58028-ec20-4076-9e99-749d3890a353",
+        "url": "/images/properties/wheelock4.avif",
+        "description": null,
+        "thumbnail": "/images/properties/wheelock4.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:19:12.000000Z",
+        "updated_at": "2022-06-11T12:57:21.000000Z"
+      },
+      {
+        "id": "3c5e5271-7a53-4122-8712-fecb3d8083c5",
+        "property_id": "c2b58028-ec20-4076-9e99-749d3890a353",
+        "url": "/images/properties/wheelock5.avif",
+        "description": null,
+        "thumbnail": "/images/properties/wheelock5.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:19:12.000000Z",
+        "updated_at": "2022-06-11T12:57:21.000000Z"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "c2b58028-ec20-4076-9e99-749d3890a353",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T13:53:35.000000Z",
+          "updated_at": "2022-05-13T13:53:35.000000Z"
+        }
+      },
+      {
+        "id": "cb4fe02e-2c7f-4166-806b-0d2b0d741d89",
+        "name": "Green Mark Gold",
+        "pivot": {
+          "property_id": "c2b58028-ec20-4076-9e99-749d3890a353",
+          "facility_id": "cb4fe02e-2c7f-4166-806b-0d2b0d741d89",
+          "created_at": "2022-05-13T13:54:20.000000Z",
+          "updated_at": "2022-05-13T13:54:20.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-08 00:00:00",
+    "created_at": "2022-06-08 00:00:00",
+    "updated_at": "2022-06-08 00:00:00"
+  },
+  {
+    "id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+    "title": "Centennial Tower",
+    "slug": "centennial-tower",
+    "summary": null,
+    "description": "Located in the Suntec / Marina Centre CBD precinct, Centennial Tower is close to daily amenities for the office population, public transportation and ECP, MCE and KPE arterial expressways.",
+    "precinct": "Marina",
+    "mrt": "Promenade Station",
+    "typical_floor_plate": "18,000",
+    "year_built": "1997",
+    "building_size": 580000,
+    "stories": 34,
+    "ideal_rent_price": "14.00",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/centennial1.avif",
+    "images": [
+      {
+        "id": "c13b04f0-1d80-4170-bdc3-d6a1678e28e6",
+        "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+        "url": "/images/properties/centennial1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/centennial1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-26T01:20:07.000000Z",
+        "updated_at": "2022-06-11T12:54:27.000000Z"
+      },
+      {
+        "id": "ba310bd0-406d-4e4f-a620-16d243944eb5",
+        "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+        "url": "/images/properties/centennial2.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/centennial2.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:20:07.000000Z",
+        "updated_at": "2022-06-11T12:54:27.000000Z"
+      },
+      {
+        "id": "b693e5ee-2b8b-4826-ad14-bd1fac287bf6",
+        "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+        "url": "/images/properties/centennial3.webp",
+        "description": null,
+        "thumbnail": "/images/properties/centennial3.webp",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:20:07.000000Z",
+        "updated_at": "2022-06-11T12:54:27.000000Z"
+      },
+      {
+        "id": "4262a745-caa5-4f23-b114-9c656d9af59e",
+        "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+        "url": "/images/properties/centennial4.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/centennial4.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:20:07.000000Z",
+        "updated_at": "2022-06-11T12:54:27.000000Z"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T13:54:04.000000Z",
+          "updated_at": "2022-05-13T13:54:04.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T13:54:04.000000Z",
+          "updated_at": "2022-05-13T13:54:04.000000Z"
+        }
+      },
+      {
+        "id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+        "name": "Green Mark Goldplus",
+        "pivot": {
+          "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+          "facility_id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+          "created_at": "2022-05-13T13:54:04.000000Z",
+          "updated_at": "2022-05-13T13:54:04.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-13T13:54:04.000000Z",
+          "updated_at": "2022-05-13T13:54:04.000000Z"
+        }
+      },
+      {
+        "id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+        "name": "Shower facilities",
+        "pivot": {
+          "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+          "facility_id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+          "created_at": "2022-05-13T13:54:04.000000Z",
+          "updated_at": "2022-05-13T13:54:04.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "de34f916-8b93-47ad-b725-1e5eb1cf9d6f",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-13T13:54:04.000000Z",
+          "updated_at": "2022-05-13T13:54:04.000000Z"
+        }
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-07 00:00:00",
+    "created_at": "2022-06-07 00:00:00",
+    "updated_at": "2022-06-07 00:00:00"
+  },
+  {
+    "id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+    "title": "Capitagreen",
+    "slug": "capitagreen",
+    "summary": null,
+    "description": "Located in the Raffles Place Marina Bay core CBD precinct, CapitaGreen is close to daily amenities for the office population, public transportation and ECP, AYE, MCE and KPE arterial expressways",
+    "precinct": "Raffles Place/Marina Bay",
+    "mrt": "Telok Ayer / Raffles Place Station",
+    "typical_floor_plate": "22,000",
+    "year_built": "2014",
+    "building_size": 700000,
+    "stories": 40,
+    "ideal_rent_price": "13.50",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/capitagreen1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T13:58:40.000000Z",
+          "updated_at": "2022-05-13T13:58:40.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T13:58:40.000000Z",
+          "updated_at": "2022-05-13T13:58:40.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-13T13:58:40.000000Z",
+          "updated_at": "2022-05-13T13:58:40.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-13T13:58:40.000000Z",
+          "updated_at": "2022-05-13T13:58:40.000000Z"
+        }
+      },
+      {
+        "id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+        "name": "Shower facilities",
+        "pivot": {
+          "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+          "facility_id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+          "created_at": "2022-05-13T13:58:40.000000Z",
+          "updated_at": "2022-05-13T13:58:40.000000Z"
+        }
+      },
+      {
+        "id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+        "name": "Sky garden",
+        "pivot": {
+          "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+          "facility_id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+          "created_at": "2022-05-13T13:58:40.000000Z",
+          "updated_at": "2022-05-13T13:58:40.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-13T13:58:40.000000Z",
+          "updated_at": "2022-05-13T13:58:40.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "0cf990ce-37e6-4f54-9e4d-9cef2e8b1f1c",
+        "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+        "url": "/images/properties/capitagreen1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/capitagreen1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:34:19.000000Z",
+        "updated_at": "2022-06-11T12:56:26.000000Z"
+      },
+      {
+        "id": "df914692-a5cf-424e-931c-4682f4ab170a",
+        "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+        "url": "/images/properties/capitagreen2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/capitagreen2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:34:19.000000Z",
+        "updated_at": "2022-06-11T12:56:26.000000Z"
+      },
+      {
+        "id": "de43c6e4-6de0-4e74-957c-b889e572d2a5",
+        "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+        "url": "/images/properties/capitagreen3.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/capitagreen3.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:34:19.000000Z",
+        "updated_at": "2022-06-11T12:56:26.000000Z"
+      },
+      {
+        "id": "0e7f75e6-3def-401b-b311-dd6c35dff382",
+        "property_id": "d76c495a-6626-4078-8f05-ed3fa84848db",
+        "url": "/images/properties/capitagreen4.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/capitagreen4.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:34:19.000000Z",
+        "updated_at": "2022-06-11T12:56:26.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-06 00:00:00",
+    "created_at": "2022-06-06 00:00:00",
+    "updated_at": "2022-06-06 00:00:00"
+  },
+  {
+    "id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+    "title": "Capital Tower",
+    "slug": "capital-tower",
+    "summary": null,
+    "description": "Located in the Shenton Way / Robinson Road / Tanjong Pagar CBD precinct, Capital Tower is close to daily amenities for the office population, public transportation and ECP, AYE and MCE arterial expressways.",
+    "precinct": "Tanjong Pagar/Shenton Way",
+    "mrt": "Tanjong Pagar Station",
+    "typical_floor_plate": "Low Zone – Approx. 20,451  Mid Zone – Approx. 19,913  High Zone – Approx. 13,993",
+    "year_built": "2000",
+    "building_size": 740000,
+    "stories": 52,
+    "ideal_rent_price": "11.00",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/capitaltower1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T13:57:00.000000Z",
+          "updated_at": "2022-05-13T13:57:00.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T13:57:00.000000Z",
+          "updated_at": "2022-05-13T13:57:00.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-13T13:57:00.000000Z",
+          "updated_at": "2022-05-13T13:57:00.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-13T13:57:00.000000Z",
+          "updated_at": "2022-05-13T13:57:00.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-13T13:57:00.000000Z",
+          "updated_at": "2022-05-13T13:57:00.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "919fcff7-4c3d-4c3c-a932-4da212211811",
+        "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+        "url": "/images/properties/capitaltower1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/capitaltower1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:32:50.000000Z",
+        "updated_at": "2022-06-11T12:55:47.000000Z"
+      },
+      {
+        "id": "98bc6fcf-0679-4da0-84aa-0aebcf84badd",
+        "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+        "url": "/images/properties/capitaltower2.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/capitaltower2.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:32:50.000000Z",
+        "updated_at": "2022-06-11T12:55:47.000000Z"
+      },
+      {
+        "id": "c53294ce-9d93-4577-924a-2a21af4fe987",
+        "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+        "url": "/images/properties/capitaltower3.webp",
+        "description": null,
+        "thumbnail": "/images/properties/capitaltower3.webp",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:32:50.000000Z",
+        "updated_at": "2022-06-11T12:55:47.000000Z"
+      },
+      {
+        "id": "3f2e2390-5722-47b6-a1d6-55a8d62e7331",
+        "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+        "url": "/images/properties/capitaltower4.avif",
+        "description": null,
+        "thumbnail": "/images/properties/capitaltower4.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:32:50.000000Z",
+        "updated_at": "2022-06-11T12:55:47.000000Z"
+      },
+      {
+        "id": "b2ad3ff0-6c02-4e16-adea-e59d847abf6f",
+        "property_id": "f1cab63a-8d3b-4a39-a55c-69b002ae61a6",
+        "url": "/images/properties/capitaltower5.avif",
+        "description": null,
+        "thumbnail": "/images/properties/capitaltower5.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:32:50.000000Z",
+        "updated_at": "2022-06-11T12:55:47.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-05 00:00:00",
+    "created_at": "2022-06-05 00:00:00",
+    "updated_at": "2022-06-05 00:00:00"
+  },
+  {
+    "id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+    "title": "Frasers Tower",
+    "slug": "frasers-tower",
+    "summary": null,
+    "description": "Located in the Shenton Way / Robinson Road / Tanjong Pagar CBD precinct, Frasers Tower is close to daily amenities for the office population, public transportation and ECP, AYE and MCE arterial expressways.",
+    "precinct": "Tanjong Pagar/Shenton Way",
+    "mrt": "Tanjong Pagar Station",
+    "typical_floor_plate": "22,000",
+    "year_built": "2018",
+    "building_size": 667788,
+    "stories": 38,
+    "ideal_rent_price": "11.00",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/frasers1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T13:55:34.000000Z",
+          "updated_at": "2022-05-13T13:55:34.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T13:55:34.000000Z",
+          "updated_at": "2022-05-13T13:55:34.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-13T13:55:34.000000Z",
+          "updated_at": "2022-05-13T13:55:34.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-13T13:55:34.000000Z",
+          "updated_at": "2022-05-13T13:55:34.000000Z"
+        }
+      },
+      {
+        "id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+        "name": "Shower facilities",
+        "pivot": {
+          "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+          "facility_id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+          "created_at": "2022-05-13T13:55:34.000000Z",
+          "updated_at": "2022-05-13T13:55:34.000000Z"
+        }
+      },
+      {
+        "id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+        "name": "Sky garden",
+        "pivot": {
+          "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+          "facility_id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+          "created_at": "2022-05-13T13:55:34.000000Z",
+          "updated_at": "2022-05-13T13:55:34.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-13T13:55:34.000000Z",
+          "updated_at": "2022-05-13T13:55:34.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "b8d59fa4-c3b8-4505-811d-9ef506c116b5",
+        "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+        "url": "/images/properties/frasers1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/frasers1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-26T01:22:17.000000Z",
+        "updated_at": "2022-06-11T12:54:37.000000Z"
+      },
+      {
+        "id": "e626a5eb-59c9-42c6-94f5-3d3d5b4faed7",
+        "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+        "url": "/images/properties/frasers2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/frasers2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:22:17.000000Z",
+        "updated_at": "2022-06-11T12:54:37.000000Z"
+      },
+      {
+        "id": "15fdc81f-31e0-449f-8aed-f6dd20ac23da",
+        "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+        "url": "/images/properties/frasers3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/frasers3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:22:17.000000Z",
+        "updated_at": "2022-06-11T12:54:37.000000Z"
+      },
+      {
+        "id": "3831ff2f-5809-4faf-8c69-427cee23fb99",
+        "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+        "url": "/images/properties/frasers4.avif",
+        "description": null,
+        "thumbnail": "/images/properties/frasers4.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:22:17.000000Z",
+        "updated_at": "2022-06-11T12:54:37.000000Z"
+      },
+      {
+        "id": "31c77cf0-f51f-4a95-a2b4-ad2daa4aa8fd",
+        "property_id": "19740a5f-275c-46eb-8f94-2ad428cad4b1",
+        "url": "/images/properties/frasers5.avif",
+        "description": null,
+        "thumbnail": "/images/properties/frasers5.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:22:17.000000Z",
+        "updated_at": "2022-06-11T12:54:37.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-04 00:00:00",
+    "created_at": "2022-06-04 00:00:00",
+    "updated_at": "2022-06-04 00:00:00"
+  },
+  {
+    "id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+    "title": "Guoco Tower",
+    "slug": "guoco-tower",
+    "summary": null,
+    "description": "Located in the Shenton Way / Robinson Road / Tanjong Pagar CBD precinct, Guoco Tower is close to daily amenities for the office population, public transportation and ECP, AYE and MCE arterial expressways.",
+    "precinct": "Tanjong Pagar/Shenton Way",
+    "mrt": "Tanjong Pagar Station",
+    "typical_floor_plate": "27,000",
+    "year_built": "2016",
+    "building_size": 900500,
+    "stories": 62,
+    "ideal_rent_price": "13.00",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/guoco1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T13:55:06.000000Z",
+          "updated_at": "2022-05-13T13:55:06.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T13:55:06.000000Z",
+          "updated_at": "2022-05-13T13:55:06.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-13T13:55:06.000000Z",
+          "updated_at": "2022-05-13T13:55:06.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-13T13:55:06.000000Z",
+          "updated_at": "2022-05-13T13:55:06.000000Z"
+        }
+      },
+      {
+        "id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+        "name": "Shower facilities",
+        "pivot": {
+          "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+          "facility_id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+          "created_at": "2022-05-13T13:55:06.000000Z",
+          "updated_at": "2022-05-13T13:55:06.000000Z"
+        }
+      },
+      {
+        "id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+        "name": "Sky garden",
+        "pivot": {
+          "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+          "facility_id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+          "created_at": "2022-05-13T13:55:06.000000Z",
+          "updated_at": "2022-05-13T13:55:06.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-13T13:55:06.000000Z",
+          "updated_at": "2022-05-13T13:55:06.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "ad00efaa-452b-4263-8746-bbba286513cd",
+        "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+        "url": "/images/properties/guoco1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/guoco1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-26T01:20:30.000000Z",
+        "updated_at": "2022-06-11T12:55:36.000000Z"
+      },
+      {
+        "id": "f83ee57c-8736-4213-a603-31568daf5a6d",
+        "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+        "url": "/images/properties/guoco2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/guoco2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:20:30.000000Z",
+        "updated_at": "2022-06-11T12:55:36.000000Z"
+      },
+      {
+        "id": "04d66ac9-ed05-41be-8868-5f8cfcf15ece",
+        "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+        "url": "/images/properties/guoco3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/guoco3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:20:30.000000Z",
+        "updated_at": "2022-06-11T12:55:36.000000Z"
+      },
+      {
+        "id": "cbe03971-7363-4592-8942-ab2da31f16af",
+        "property_id": "e53cc10a-490f-4153-bc6f-3f91d7e3e183",
+        "url": "/images/properties/guoco4.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/guoco4.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-26T01:20:30.000000Z",
+        "updated_at": "2022-06-11T12:55:36.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-03 00:00:00",
+    "created_at": "2022-06-03 00:00:00",
+    "updated_at": "2022-06-03 00:00:00"
+  },
+  {
+    "id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+    "title": "Millenia Tower",
+    "slug": "millenia-tower",
+    "summary": null,
+    "description": "Located in the Suntec / Marina Centre CBD precinct, Millenia Tower is close to daily amenities for the office population, public transportation and ECP, MCE and KPE arterial expressways.",
+    "precinct": "Marina",
+    "mrt": "Promenade Station",
+    "typical_floor_plate": "18,000",
+    "year_built": "1995",
+    "building_size": 700000,
+    "stories": 41,
+    "ideal_rent_price": "14.20",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/millenia1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T08:15:46.000000Z",
+          "updated_at": "2022-05-13T08:15:46.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T14:05:00.000000Z",
+          "updated_at": "2022-05-13T14:05:00.000000Z"
+        }
+      },
+      {
+        "id": "cb4fe02e-2c7f-4166-806b-0d2b0d741d89",
+        "name": "Green Mark Gold",
+        "pivot": {
+          "property_id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+          "facility_id": "cb4fe02e-2c7f-4166-806b-0d2b0d741d89",
+          "created_at": "2022-05-13T08:15:46.000000Z",
+          "updated_at": "2022-05-13T08:15:46.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-13T08:15:46.000000Z",
+          "updated_at": "2022-05-13T08:15:46.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-13T08:15:46.000000Z",
+          "updated_at": "2022-05-13T08:15:46.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "a0923c55-62ca-48d2-8132-19cf79a58cf0",
+        "property_id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+        "url": "/images/properties/millenia1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/millenia1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:38:28.000000Z",
+        "updated_at": "2022-06-11T12:53:31.000000Z"
+      },
+      {
+        "id": "1573cb93-7a96-44d2-b021-a75d3471efd9",
+        "property_id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+        "url": "/images/properties/millenia2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/millenia2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:38:28.000000Z",
+        "updated_at": "2022-06-11T12:53:31.000000Z"
+      },
+      {
+        "id": "88e8e380-719c-47c8-978d-800280b181bf",
+        "property_id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+        "url": "/images/properties/millenia3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/millenia3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:38:28.000000Z",
+        "updated_at": "2022-06-11T12:53:31.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-02 00:00:00",
+    "created_at": "2022-06-02 00:00:00",
+    "updated_at": "2022-06-02 00:00:00"
+  },
+  {
+    "id": "149c5028-867f-4845-813f-9660302090ea",
+    "title": "Ocean Financial Centre",
+    "slug": "ocean-financial-centre",
+    "summary": null,
+    "description": "Located in the Raffles Place / Marina Bay core CBD precinct, Ocean Financial Centre is close to daily amenities for the office population, public transportation and ECP, AYE, MCE and KPE arterial expressways.",
+    "precinct": "Raffles Place/Marina Bay",
+    "mrt": "Raffles Place Station",
+    "typical_floor_plate": "20,000 – 23,000",
+    "year_built": "2011",
+    "building_size": 880000,
+    "stories": 43,
+    "ideal_rent_price": "13.00",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/ocean1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "149c5028-867f-4845-813f-9660302090ea",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T13:57:37.000000Z",
+          "updated_at": "2022-05-13T13:57:37.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "149c5028-867f-4845-813f-9660302090ea",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T13:57:37.000000Z",
+          "updated_at": "2022-05-13T13:57:37.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "149c5028-867f-4845-813f-9660302090ea",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-13T13:57:37.000000Z",
+          "updated_at": "2022-05-13T13:57:37.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "149c5028-867f-4845-813f-9660302090ea",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-13T13:57:37.000000Z",
+          "updated_at": "2022-05-13T13:57:37.000000Z"
+        }
+      },
+      {
+        "id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+        "name": "Shower facilities",
+        "pivot": {
+          "property_id": "149c5028-867f-4845-813f-9660302090ea",
+          "facility_id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+          "created_at": "2022-05-13T13:57:37.000000Z",
+          "updated_at": "2022-05-13T13:57:37.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "149c5028-867f-4845-813f-9660302090ea",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-13T13:57:37.000000Z",
+          "updated_at": "2022-05-13T13:57:37.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "2e727c33-42ab-4803-9550-7bd72ed8b503",
+        "property_id": "149c5028-867f-4845-813f-9660302090ea",
+        "url": "/images/properties/ocean1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ocean1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:32:15.000000Z",
+        "updated_at": "2022-06-11T12:55:57.000000Z"
+      },
+      {
+        "id": "3e0b76b5-a4c0-4ebb-ada5-3fe85aa5c0c8",
+        "property_id": "149c5028-867f-4845-813f-9660302090ea",
+        "url": "/images/properties/ocean2.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/ocean2.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:32:15.000000Z",
+        "updated_at": "2022-06-11T12:55:57.000000Z"
+      },
+      {
+        "id": "129a480b-80ee-47b8-8e8e-e7665be0b417",
+        "property_id": "149c5028-867f-4845-813f-9660302090ea",
+        "url": "/images/properties/ocean3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ocean3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:32:15.000000Z",
+        "updated_at": "2022-06-11T12:55:57.000000Z"
+      },
+      {
+        "id": "da87b40b-cf37-40be-985f-0fe52766e155",
+        "property_id": "149c5028-867f-4845-813f-9660302090ea",
+        "url": "/images/properties/ocean4.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ocean4.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:32:15.000000Z",
+        "updated_at": "2022-06-11T12:55:57.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-06-01 00:00:00",
+    "created_at": "2022-06-01 00:00:00",
+    "updated_at": "2022-06-01 00:00:00"
+  },
+  {
+    "id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+    "title": "Raffles City Tower",
+    "slug": "raffles-city-tower",
+    "summary": null,
+    "description": "Located in the City Hall CBD precinct, Raffles City Tower is close to daily amenities for the office population, public transportation and ECP, MCE, KPE and CTE arterial expressways.",
+    "precinct": "Beach Road/Middle Road",
+    "mrt": "Raffles City",
+    "typical_floor_plate": "123,000",
+    "year_built": "1985",
+    "building_size": 20000,
+    "stories": 12,
+    "ideal_rent_price": "10.50",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/rafflescity1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-12T04:47:15.000000Z",
+          "updated_at": "2022-05-12T04:47:15.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T13:52:34.000000Z",
+          "updated_at": "2022-05-13T13:52:34.000000Z"
+        }
+      },
+      {
+        "id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+        "name": "Green Mark Goldplus",
+        "pivot": {
+          "property_id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+          "facility_id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+          "created_at": "2022-05-12T04:47:15.000000Z",
+          "updated_at": "2022-05-12T04:47:15.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-12T04:47:15.000000Z",
+          "updated_at": "2022-05-12T04:47:15.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-12T04:47:15.000000Z",
+          "updated_at": "2022-05-12T04:47:15.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "648df1c5-039b-45df-b8f0-e783c8e66a62",
+        "property_id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+        "url": "/images/properties/rafflescity1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/rafflescity1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:40:09.000000Z",
+        "updated_at": "2022-05-18T10:40:12.000000Z"
+      },
+      {
+        "id": "e45f96b7-9c3d-490c-9596-503149e14691",
+        "property_id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+        "url": "/images/properties/rafflescity2.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/rafflescity2.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:40:09.000000Z",
+        "updated_at": "2022-05-18T10:40:12.000000Z"
+      },
+      {
+        "id": "a25f1423-6e7b-448d-ae0e-443165e22786",
+        "property_id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+        "url": "/images/properties/rafflescity3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/rafflescity3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:40:09.000000Z",
+        "updated_at": "2022-05-18T10:40:12.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-05-31 00:00:00",
+    "created_at": "2022-05-31 00:00:00",
+    "updated_at": "2022-05-31 00:00:00"
+  },
+  {
+    "id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+    "title": "South Beach Tower",
+    "slug": "south-beach-tower",
+    "summary": null,
+    "description": "Located in the City Hall CBD precinct, South Beach Tower is close to daily amenities for the office population, public transportation and ECP, MCE, KPE and CTE arterial expressways.",
+    "precinct": "Beach Road/Middle Road",
+    "mrt": "Beach Road/Middle Road",
+    "typical_floor_plate": "21,000",
+    "year_built": "2015",
+    "building_size": 645840,
+    "stories": 34,
+    "ideal_rent_price": "10.50",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/southbeach1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T08:11:19.000000Z",
+          "updated_at": "2022-05-13T08:11:19.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T14:05:25.000000Z",
+          "updated_at": "2022-05-13T14:05:25.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-13T08:11:19.000000Z",
+          "updated_at": "2022-05-13T08:11:19.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-13T08:11:19.000000Z",
+          "updated_at": "2022-05-13T08:11:19.000000Z"
+        }
+      },
+      {
+        "id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+        "name": "Shower facilities",
+        "pivot": {
+          "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+          "facility_id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+          "created_at": "2022-05-13T14:05:25.000000Z",
+          "updated_at": "2022-05-13T14:05:25.000000Z"
+        }
+      },
+      {
+        "id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+        "name": "Sky garden",
+        "pivot": {
+          "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+          "facility_id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+          "created_at": "2022-05-13T14:05:25.000000Z",
+          "updated_at": "2022-05-13T14:05:25.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-13T08:11:19.000000Z",
+          "updated_at": "2022-05-13T08:11:19.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "d8bd07d2-a93b-4718-99ba-4a4fb3cfba27",
+        "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+        "url": "/images/properties/southbeach1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/southbeach1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:39:07.000000Z",
+        "updated_at": "2022-06-11T12:55:14.000000Z"
+      },
+      {
+        "id": "4e96b59a-75d1-4634-88ab-f2e2efe42998",
+        "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+        "url": "/images/properties/southbeach2.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/southbeach2.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:39:07.000000Z",
+        "updated_at": "2022-06-11T12:55:14.000000Z"
+      },
+      {
+        "id": "7747b613-a080-44dd-a419-088c1e74320a",
+        "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+        "url": "/images/properties/southbeach3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/southbeach3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:39:07.000000Z",
+        "updated_at": "2022-06-11T12:55:14.000000Z"
+      },
+      {
+        "id": "ac06a81a-62e8-4753-8f4b-f880b43bf526",
+        "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+        "url": "/images/properties/southbeach4.avif",
+        "description": null,
+        "thumbnail": "/images/properties/southbeach4.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:39:07.000000Z",
+        "updated_at": "2022-06-11T12:55:14.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-05-30 00:00:00",
+    "created_at": "2022-05-30 00:00:00",
+    "updated_at": "2022-05-30 00:00:00"
+  },
+  {
+    "id": "a7894610-1de5-481c-ac6f-67c9aa77e08b",
+    "title": "Ngee Ann City Tower A",
+    "slug": "ngee-ann-city-tower-a",
+    "summary": null,
+    "description": "Located in the Orchard Road precinct, Ngee Ann City Tower A is close to daily amenities for the office population, public transportation and CTE and PIE arterial expressways.",
+    "precinct": "Orchard",
+    "mrt": "Orchard Station",
+    "typical_floor_plate": "15,000",
+    "year_built": "1993",
+    "building_size": 479000,
+    "stories": 27,
+    "ideal_rent_price": "10.00",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/ngeeann1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "a7894610-1de5-481c-ac6f-67c9aa77e08b",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T14:04:06.000000Z",
+          "updated_at": "2022-05-13T14:04:06.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "a7894610-1de5-481c-ac6f-67c9aa77e08b",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T14:04:06.000000Z",
+          "updated_at": "2022-05-13T14:04:06.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "a7894610-1de5-481c-ac6f-67c9aa77e08b",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-13T08:17:55.000000Z",
+          "updated_at": "2022-05-13T08:17:55.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "1e6d0bc7-d628-4641-b013-92bce1f3aa73",
+        "property_id": "a7894610-1de5-481c-ac6f-67c9aa77e08b",
+        "url": "/images/properties/ngeeann1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ngeeann1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:37:41.000000Z",
+        "updated_at": "2022-06-11T12:53:57.000000Z"
+      },
+      {
+        "id": "497ba5f8-c610-4048-bf26-54cfbeb6fc0a",
+        "property_id": "a7894610-1de5-481c-ac6f-67c9aa77e08b",
+        "url": "/images/properties/ngeeann2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ngeeann2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:37:41.000000Z",
+        "updated_at": "2022-06-11T12:53:57.000000Z"
+      },
+      {
+        "id": "4ef50054-f8dc-44ec-bdcc-f0f95e3459ec",
+        "property_id": "a7894610-1de5-481c-ac6f-67c9aa77e08b",
+        "url": "/images/properties/ngeeann3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/ngeeann3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:37:41.000000Z",
+        "updated_at": "2022-06-11T12:53:57.000000Z"
+      },
+      {
+        "id": "0d7ace34-1f40-4137-92d9-821390845237",
+        "property_id": "a7894610-1de5-481c-ac6f-67c9aa77e08b",
+        "url": "/images/properties/ngeeann4.webp",
+        "description": null,
+        "thumbnail": "/images/properties/ngeeann4.webp",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:37:41.000000Z",
+        "updated_at": "2022-06-11T12:53:57.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-05-29 00:00:00",
+    "created_at": "2022-05-29 00:00:00",
+    "updated_at": "2022-05-29 00:00:00"
+  },
+  {
+    "id": "2c316c60-3c0b-495a-8d13-57471832460c",
+    "title": "20 Collyer Quay",
+    "slug": "20-collyer-quay",
+    "summary": null,
+    "description": "Located in the Raffles Place / Marina Bay core CBD precinct, 20 Collyer Quay is close to daily amenities for the office population, public transportation and ECP, AYE, MCE and KPE arterial expressways.",
+    "precinct": "Raffles Place/Marina Bay",
+    "mrt": "Raffles Place Station",
+    "typical_floor_plate": "10,000",
+    "year_built": "1985",
+    "building_size": 240000,
+    "stories": 24,
+    "ideal_rent_price": "13.00",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/collyer1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "2c316c60-3c0b-495a-8d13-57471832460c",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-13T14:00:13.000000Z",
+          "updated_at": "2022-05-13T14:00:13.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "2c316c60-3c0b-495a-8d13-57471832460c",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T14:00:13.000000Z",
+          "updated_at": "2022-05-13T14:00:13.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "2c316c60-3c0b-495a-8d13-57471832460c",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-13T14:00:13.000000Z",
+          "updated_at": "2022-05-13T14:00:13.000000Z"
+        }
+      },
+      {
+        "id": "17692032-9e9c-4987-ba54-07754ad63574",
+        "name": "Smart lifts",
+        "pivot": {
+          "property_id": "2c316c60-3c0b-495a-8d13-57471832460c",
+          "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+          "created_at": "2022-05-13T14:00:13.000000Z",
+          "updated_at": "2022-05-13T14:00:13.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "c486653d-28f1-4c9c-b78d-f9746bc6920c",
+        "property_id": "2c316c60-3c0b-495a-8d13-57471832460c",
+        "url": "/images/properties/collyer1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/collyer1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:36:52.000000Z",
+        "updated_at": "2022-06-11T12:58:21.000000Z"
+      },
+      {
+        "id": "f5dd84ca-a356-4017-8ffe-a4d4b9b66f14",
+        "property_id": "2c316c60-3c0b-495a-8d13-57471832460c",
+        "url": "/images/properties/collyer2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/collyer2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:36:52.000000Z",
+        "updated_at": "2022-06-11T12:58:21.000000Z"
+      },
+      {
+        "id": "1dea5d5a-e086-4bf3-baaa-1bcd7c4bcd89",
+        "property_id": "2c316c60-3c0b-495a-8d13-57471832460c",
+        "url": "/images/properties/collyer3.avif",
+        "description": null,
+        "thumbnail": "/images/properties/collyer3.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:36:52.000000Z",
+        "updated_at": "2022-06-11T12:58:21.000000Z"
+      },
+      {
+        "id": "8432adb5-8aae-4973-8f1d-5fae916cb078",
+        "property_id": "2c316c60-3c0b-495a-8d13-57471832460c",
+        "url": "/images/properties/collyer4.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/collyer4.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:36:52.000000Z",
+        "updated_at": "2022-06-11T12:58:21.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-05-28 00:00:00",
+    "created_at": "2022-05-28 00:00:00",
+    "updated_at": "2022-05-28 00:00:00"
+  },
+  {
+    "id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+    "title": "Bugis Junction Tower",
+    "slug": "bugis-junction-tower",
+    "summary": null,
+    "description": "asdfasdfasdf",
+    "precinct": "Beach Road/Middle Road",
+    "mrt": "Bugis Station",
+    "typical_floor_plate": "21,000",
+    "year_built": "1994",
+    "building_size": 250000,
+    "stories": 15,
+    "ideal_rent_price": "10.00",
+    "ideal_rent_text": "*Gross inclusive of service charge. Negotiable by 5% or more subject to size and commencement date.",
+    "featured": null,
+    "featured_at": null,
+    "model": "Property",
+    "image": "/images/properties/bugis1.avif",
+    "facilities": [
+      {
+        "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+        "name": "Carpark within building",
+        "pivot": {
+          "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+          "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+          "created_at": "2022-05-11T17:27:19.000000Z",
+          "updated_at": "2022-05-11T17:27:19.000000Z"
+        }
+      },
+      {
+        "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+        "name": "Covered vehicular drop-off",
+        "pivot": {
+          "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+          "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+          "created_at": "2022-05-13T14:05:55.000000Z",
+          "updated_at": "2022-05-13T14:05:55.000000Z"
+        }
+      },
+      {
+        "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+        "name": "Green Mark Platinum",
+        "pivot": {
+          "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+          "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+          "created_at": "2022-05-11T14:57:57.000000Z",
+          "updated_at": "2022-05-11T14:57:57.000000Z"
+        }
+      },
+      {
+        "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+        "name": "Security turnstile",
+        "pivot": {
+          "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+          "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+          "created_at": "2022-05-11T17:27:19.000000Z",
+          "updated_at": "2022-05-11T17:27:19.000000Z"
+        }
+      },
+      {
+        "id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+        "name": "Shower facilities",
+        "pivot": {
+          "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+          "facility_id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+          "created_at": "2022-05-11T17:27:19.000000Z",
+          "updated_at": "2022-05-11T17:27:19.000000Z"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "284f7de0-43a3-4a81-816f-17039a6f9ef3",
+        "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+        "url": "/images/properties/bugis1.avif",
+        "description": null,
+        "thumbnail": "/images/properties/bugis1.avif",
+        "is_main": 1,
+        "created_at": "2022-05-18T10:39:37.000000Z",
+        "updated_at": "2022-06-11T12:58:30.000000Z"
+      },
+      {
+        "id": "08377dd0-6db2-48af-ada6-4e0c5dee4a80",
+        "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+        "url": "/images/properties/bugis2.avif",
+        "description": null,
+        "thumbnail": "/images/properties/bugis2.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:39:37.000000Z",
+        "updated_at": "2022-06-11T12:58:30.000000Z"
+      },
+      {
+        "id": "17e9fc36-c5c1-4921-a5c2-c70996d403cd",
+        "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+        "url": "/images/properties/bugis3.jpg",
+        "description": null,
+        "thumbnail": "/images/properties/bugis3.jpg",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:39:37.000000Z",
+        "updated_at": "2022-06-11T12:58:30.000000Z"
+      },
+      {
+        "id": "2da0dd22-db85-4093-931f-f6322179e8bb",
+        "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+        "url": "/images/properties/bugis4.avif",
+        "description": null,
+        "thumbnail": "/images/properties/bugis4.avif",
+        "is_main": 0,
+        "created_at": "2022-05-18T10:39:37.000000Z",
+        "updated_at": "2022-06-11T12:58:30.000000Z"
+      }
+    ],
+    "published": 1,
+    "published_at": "2022-05-27 00:00:00",
+    "created_at": "2022-05-27 00:00:00",
+    "updated_at": "2022-05-27 00:00:00"
+  }
+]

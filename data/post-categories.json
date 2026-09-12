@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ec7ae91e-367b-4887-844b-593144b286be",
+    "name": "Interview",
+    "slug": "interview",
+    "description": "Interview",
+    "counts": 0,
+    "created_at": "2022-05-10T18:15:53.000000Z",
+    "updated_at": "2022-06-14T02:31:41.000000Z"
+  },
+  {
+    "id": "fac971aa-8f59-4f20-87ce-2e891a9f2914",
+    "name": "Market Reports",
+    "slug": "market-reports",
+    "description": "Market Reports",
+    "counts": 2,
+    "created_at": "2022-05-10T18:15:53.000000Z",
+    "updated_at": "2022-05-11T16:26:09.000000Z"
+  },
+  {
+    "id": "e6e0e452-e559-4016-ba96-f2350b1b45c6",
+    "name": "Workplace",
+    "slug": "workplace",
+    "description": "workplace",
+    "counts": 3,
+    "created_at": "2022-05-10T18:15:53.000000Z",
+    "updated_at": "2022-06-15T06:20:31.000000Z"
+  }
+]

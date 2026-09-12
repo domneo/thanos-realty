@@ -1,0 +1,38 @@
+[
+  {
+    "id": "269152d7-fb77-4394-93b1-aaf660727262",
+    "name": "Case Studies",
+    "slug": "case-studies",
+    "description": "Case Studies",
+    "counts": 0,
+    "created_at": "2022-05-10T18:15:53.000000Z",
+    "updated_at": "2022-06-14T15:16:40.000000Z"
+  },
+  {
+    "id": "b0a15e53-a56d-4bc2-9b2d-7e53b53c7a5c",
+    "name": "Interview",
+    "slug": "interview",
+    "description": "Interview",
+    "counts": 0,
+    "created_at": "2022-05-10T18:15:53.000000Z",
+    "updated_at": "2022-05-13T08:00:04.000000Z"
+  },
+  {
+    "id": "faff563c-c97b-4b9b-b852-b8e3cb7fc55a",
+    "name": "Market Reports",
+    "slug": "market-reports",
+    "description": "Market Reports",
+    "counts": 0,
+    "created_at": "2022-05-10T18:15:53.000000Z",
+    "updated_at": "2022-05-10T18:15:53.000000Z"
+  },
+  {
+    "id": "5dba65a4-7c20-4468-b5eb-01b23d9cc1c7",
+    "name": "Workplace",
+    "slug": "workplace",
+    "description": "workplace",
+    "counts": 3,
+    "created_at": "2022-05-10T18:15:53.000000Z",
+    "updated_at": "2022-06-15T06:19:12.000000Z"
+  }
+]

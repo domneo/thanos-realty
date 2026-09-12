@@ -1,0 +1,92 @@
+[
+  {
+    "id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+    "name": "Carpark within building",
+    "pivot": {
+      "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+      "facility_id": "a3d58e79-d3f0-443a-ad46-e830689e2541",
+      "created_at": "2022-05-11T17:27:19.000000Z",
+      "updated_at": "2022-05-11T17:27:19.000000Z"
+    }
+  },
+  {
+    "id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+    "name": "Green Mark Goldplus",
+    "pivot": {
+      "property_id": "09c7dbea-f2fe-42be-8bed-41f377d55eed",
+      "facility_id": "9d28f9ee-e46d-41a9-a545-9c3c86e18284",
+      "created_at": "2022-05-12T04:47:15.000000Z",
+      "updated_at": "2022-05-12T04:47:15.000000Z"
+    }
+  },
+  {
+    "id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+    "name": "Green Mark Platinum",
+    "pivot": {
+      "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+      "facility_id": "4a582043-2a8a-41bc-a4ed-74cb7ebb2008",
+      "created_at": "2022-05-11T14:57:57.000000Z",
+      "updated_at": "2022-05-11T14:57:57.000000Z"
+    }
+  },
+  {
+    "id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+    "name": "Covered vehicular drop-off",
+    "pivot": {
+      "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+      "facility_id": "4e447104-2b6d-4dd1-9079-a70950ef050c",
+      "created_at": "2022-05-13T14:05:55.000000Z",
+      "updated_at": "2022-05-13T14:05:55.000000Z"
+    }
+  },
+  {
+    "id": "cb4fe02e-2c7f-4166-806b-0d2b0d741d89",
+    "name": "Green Mark Gold",
+    "pivot": {
+      "property_id": "7d42c6dd-b161-4bf4-be29-19740a6c5c39",
+      "facility_id": "cb4fe02e-2c7f-4166-806b-0d2b0d741d89",
+      "created_at": "2022-05-13T08:15:46.000000Z",
+      "updated_at": "2022-05-13T08:15:46.000000Z"
+    }
+  },
+  {
+    "id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+    "name": "Security turnstile",
+    "pivot": {
+      "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+      "facility_id": "0c60101c-d44e-44cc-aac7-e10bd45bbe13",
+      "created_at": "2022-05-11T17:27:19.000000Z",
+      "updated_at": "2022-05-11T17:27:19.000000Z"
+    }
+  },
+  {
+    "id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+    "name": "Shower facilities",
+    "pivot": {
+      "property_id": "6f699118-f147-49a2-9293-c17fbe4d93e2",
+      "facility_id": "26530122-6faa-4a4b-ab83-90b41f3b6588",
+      "created_at": "2022-05-11T17:27:19.000000Z",
+      "updated_at": "2022-05-11T17:27:19.000000Z"
+    }
+  },
+  {
+    "id": "17692032-9e9c-4987-ba54-07754ad63574",
+    "name": "Smart lifts",
+    "pivot": {
+      "property_id": "2c316c60-3c0b-495a-8d13-57471832460c",
+      "facility_id": "17692032-9e9c-4987-ba54-07754ad63574",
+      "created_at": "2022-05-13T14:00:13.000000Z",
+      "updated_at": "2022-05-13T14:00:13.000000Z"
+    }
+  },
+  {
+    "id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+    "name": "Sky garden",
+    "pivot": {
+      "property_id": "6c3280d2-e26b-4cb9-b430-a92d330a5640",
+      "facility_id": "8cd1ed4a-d649-4563-8476-80be0bf0b389",
+      "created_at": "2022-05-13T14:05:25.000000Z",
+      "updated_at": "2022-05-13T14:05:25.000000Z"
+    }
+  }
+]
