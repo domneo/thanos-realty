@@ -1,4 +1,5 @@
 import fs from "fs";
+import os from "os";
 import path from "path";
 
 /**
@@ -6,13 +7,36 @@ import path from "path";
  *
  * Reads are served from the JSON files in `data/`, which is the seed the
  * original API's database was recovered into. Writes (saved-listing carts,
- * newsletter subscribers, enquiries) go to `data/runtime/`, which is not
+ * newsletter subscribers, enquiries) go to the runtime directory, which is not
  * checked in. Both live behind this module so a real database can be dropped
  * in later without touching the route handlers.
  */
 
 const DATA_DIR = path.join(process.cwd(), "data");
-const RUNTIME_DIR = path.join(DATA_DIR, "runtime");
+
+/**
+ * Where runtime writes land.
+ *
+ * On a serverless host the deployment bundle is mounted read-only (Vercel and
+ * Lambda unpack it at /var/task), so writing next to the seed data fails with
+ * ENOENT/EROFS. The only writable path there is the instance's temp dir, so
+ * that is the fallback — per-instance and wiped when the instance is recycled.
+ * Set RUNTIME_DIR to a mounted volume, or swap `runtime` below for a real
+ * database, to keep writes.
+ */
+const isServerless = Boolean(
+  process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME
+);
+
+const RUNTIME_DIR =
+  process.env.RUNTIME_DIR ||
+  (isServerless
+    ? path.join(os.tmpdir(), "thanos-runtime")
+    : path.join(DATA_DIR, "runtime"));
+
+// Reassigned once if the configured directory turns out to be read-only, so
+// that fallback happens at most once per process rather than on every write.
+let runtimeDir = RUNTIME_DIR;
 
 const cache = new Map<string, unknown[]>();
 
@@ -32,7 +56,7 @@ const readSeed = <T>(file: string): T[] => {
 const readRuntime = <T>(file: string): T[] => {
   try {
     return JSON.parse(
-      fs.readFileSync(path.join(RUNTIME_DIR, file), "utf8")
+      fs.readFileSync(path.join(runtimeDir, file), "utf8")
     ) as T[];
   } catch (err) {
     if ((err as NodeJS.ErrnoException).code === "ENOENT") return [];
@@ -40,12 +64,30 @@ const readRuntime = <T>(file: string): T[] => {
   }
 };
 
+const READ_ONLY = ["EROFS", "EACCES", "EPERM", "ENOENT"];
+
+const writeTo = <T>(dir: string, file: string, rows: T[]) => {
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, file), JSON.stringify(rows, null, 2) + "\n");
+};
+
 const writeRuntime = <T>(file: string, rows: T[]) => {
-  fs.mkdirSync(RUNTIME_DIR, { recursive: true });
-  fs.writeFileSync(
-    path.join(RUNTIME_DIR, file),
-    JSON.stringify(rows, null, 2) + "\n"
-  );
+  try {
+    writeTo(runtimeDir, file, rows);
+  } catch (err) {
+    const code = (err as NodeJS.ErrnoException).code || "";
+    const fallback = path.join(os.tmpdir(), "thanos-runtime");
+    if (!READ_ONLY.includes(code) || runtimeDir === fallback) throw err;
+
+    // The host gave us a read-only filesystem after all. Fall back to the
+    // temp dir for the life of this process so the request still succeeds.
+    console.warn(
+      `[db] ${runtimeDir} is not writable (${code}); writing to ${fallback} instead. ` +
+        "Runtime state will not survive a restart."
+    );
+    runtimeDir = fallback;
+    writeTo(runtimeDir, file, rows);
+  }
 };
 
 export const seed = {

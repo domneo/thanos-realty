@@ -59,7 +59,19 @@ pages render a 404 rather than throwing.
 
 ### Writes
 
-Saved listings, subscribers and enquiries are appended to `data/runtime/`,
-which is gitignored. That is a working store for a single self-hosted process
-(the pm2 setup in `pm2.config.js`), not a database — swap `runtime` in
-`lib/db.ts` for a real one before relying on it. Nothing else writes.
+Saved listings, subscribers and enquiries are appended to the runtime
+directory, which is gitignored. Nothing else writes.
+
+| Host                        | Runtime directory         | Survives a restart |
+| --------------------------- | ------------------------- | ------------------ |
+| Local or self-hosted        | `data/runtime/`           | yes                |
+| Serverless (Vercel, Lambda) | `$TMPDIR/thanos-runtime/` | no                 |
+| `RUNTIME_DIR` set           | whatever it points at     | if the path is one |
+
+The deployment bundle is mounted read-only on a serverless host, so writing
+next to the seed data there fails with `EROFS`/`ENOENT` — hence the temp-dir
+fallback in `lib/db.ts`. The temp dir belongs to one instance and is wiped when
+that instance is recycled, so a cart saved on one request can be gone on the
+next, and enquiries written there are lost. Point `RUNTIME_DIR` at a mounted
+volume, or swap `runtime` in `lib/db.ts` for a real database, before relying on
+any of it.
